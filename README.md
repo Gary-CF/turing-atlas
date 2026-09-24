@@ -2,13 +2,16 @@
 <p align="center"><strong>图灵奖得主 · 群星纪年</strong></p>
 <p align="center">沿着思想的轨迹，走近改变计算的人。</p>
 
+<p align="center"><a href="https://turing-laureates-atlas.garychencf98.chatgpt.site"><strong>在线访问 Turing Atlas →</strong></a></p>
+<p align="center">直接打开即可浏览，无需安装 Node.js、npm 或下载代码。</p>
+
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-d3b687" alt="Code License: MIT"></a>
   <a href="https://github.com/Gary-CF/turing-atlas/actions/workflows/ci.yml"><img src="https://github.com/Gary-CF/turing-atlas/actions/workflows/ci.yml/badge.svg" alt="Build"></a>
 </p>
 
 <p align="center">
-  <a href="#功能">功能</a> · <a href="#动机">动机</a> · <a href="#本地运行">本地运行</a> · <a href="#许可">许可</a>
+  <a href="#功能">功能</a> · <a href="#动机">动机</a> · <a href="#本地开发可选">本地开发</a> · <a href="#许可">许可</a>
 </p>
 
 ---
@@ -32,9 +35,12 @@
 
 然后，我们便可以在自己叩问世界的路途上，理解他们口中的“Hello World!”，做出一些属于我们自己的杰出的发现。
 
-## 本地运行
+## 本地开发（可选）
 
-使用 Node.js 24：
+<details>
+<summary>仅在修改代码时需要 Node.js 和 npm，浏览网站无需安装。</summary>
+
+使用 Node.js 24（附带 npm）：
 
 ```bash
 git clone https://github.com/Gary-CF/turing-atlas.git
@@ -44,6 +50,8 @@ npm run dev
 ```
 
 打开 [http://localhost:5173](http://localhost:5173)。
+
+</details>
 
 ## 许可
 
