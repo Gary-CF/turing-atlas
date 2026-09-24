@@ -206,3 +206,6 @@ a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 
   .graph-inspector, .graph-workspace:not(.has-selection) .graph-inspector { padding: 20px 0; border-left: 0; max-height: none; background: transparent; border-top: 1px solid var(--border); }
   .graph-inspector .relationship-list { display: block; }.graph-search > button { min-width: 28px; min-height: 40px; }
 }
+
+.portrait.portrait-line-art, .graph-node image.portrait-line-art { filter: none; opacity: 1; }
+.portrait.portrait-line-art { object-fit: contain; background: #0b1017; }

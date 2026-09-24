@@ -3,7 +3,7 @@ import awardYears from "./award-years.json";
 import { research } from "./research";
 import { createRelations } from "./relationships";
 
-export const settings = { portraits: true, deepProfiles: true, fullCatalog: true, directoryFilters: true, graph: true, graphExplore: true, graphAwardYears: true, quotes: true, graphZoom: true, graphPan: true, minZoom: 0.7, maxZoom: 4 };
+export const settings = { portraits: true, lineArtPortraits: true, deepProfiles: true, fullCatalog: true, directoryFilters: true, graph: true, graphExplore: true, graphAwardYears: true, quotes: true, graphZoom: true, graphPan: true, minZoom: 0.7, maxZoom: 4 };
 export const checkedAt = "2026-09-24";
 const acm = "https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf";
 const rlAward = "https://awards.acm.org/award_winners/barto_9471663";

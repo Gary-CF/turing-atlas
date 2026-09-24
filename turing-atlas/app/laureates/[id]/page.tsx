@@ -38,7 +38,7 @@ export default async function PersonPage({ params }: Props) {
         </section>}
         {connections.length > 0 && <section><p className="eyebrow">CONNECTED MINDS</p><h2>思想的交汇</h2><RelationshipList id={id} links={connections} /></section>}
         {!!p.sources?.length && <div className="profile-sources"><p className="eyebrow">SOURCES / 参考资料</p>{p.sources.map(s => <a key={s.url} className="source-link" href={s.url} target="_blank" rel="noreferrer">{s.label} ↗</a>)}</div>}
-        {photo && <details className="portrait-credit"><summary>肖像署名</summary><p><a href={photo.sourcePage} target="_blank" rel="noreferrer">{photo.credit} ↗</a> · <a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a> · 灰度与展示裁切</p></details>}
+        {photo && <details className="portrait-credit"><summary>肖像署名</summary><p><a href={photo.sourcePage} target="_blank" rel="noreferrer">{photo.credit} ↗</a>{photo.licenseUrl && <> · <a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a></>} · {photo.modifications}</p></details>}
       </div>
     </div>
   </main>;

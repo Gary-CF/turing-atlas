@@ -3,8 +3,13 @@ quotations, publications, and vendored components retain their original rights
 and licenses.
 
 Portrait authors, sources, and individual licenses are recorded in
-turing-atlas/lib/portraits.json and displayed at /credits. Portraits are shown
-in grayscale and cropped for display; their original licenses continue to apply.
+turing-atlas/lib/portraits.json and displayed at /credits. The default portraits
+are AI-generated black-and-gold line illustrations in public/portraits/line-art.
+Illustrations based on licensed reference images retain their source attribution
+and applicable licenses, including ShareAlike and GFDL terms. Changes comprise
+AI line-art rendering, resizing, and display cropping. The remaining portraits
+were generated from names and appearance descriptions without photo inputs.
+These are artistic interpretations, not documentary photographs.
 The GFDL 1.2 text is included at turing-atlas/public/licenses/GFDL-1.2.txt.
 
 See the license files beside vendored components for their terms.
