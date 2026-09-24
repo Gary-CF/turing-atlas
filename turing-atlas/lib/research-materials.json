@@ -1,0 +1,1681 @@
+{
+  "minsky-steps": {
+    "year": 1961,
+    "title": "Steps Toward Artificial Intelligence",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/jrproc.1961.287775",
+    "note": "回到搜索、学习与模式识别尚未分化的时期，观察早期人工智能如何划分问题。它提供历史框架，不代表当代技术共识。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Minsky"
+  },
+  "wilkinson-lecture": {
+    "year": 1971,
+    "title": "Some Comments from a Numerical Analyst",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/321637.321638",
+    "note": "理解数值算法不能只追求数学表达正确，还必须分析有限精度计算的实际行为。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Wilkinson"
+  },
+  "wilkes-lecture": {
+    "year": 1968,
+    "title": "Computers Then and Now",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/321439.321440",
+    "note": "从早期硬件和编程实践理解计算机如何成为可用的科研工具，适合与今天的抽象层次对照阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Wilkes"
+  },
+  "mccarthy-lecture": {
+    "year": 1987,
+    "title": "Generality in Artificial Intelligence",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/33447.33448",
+    "note": "讨论让人工智能跨越固定任务边界的困难，适合与当代通用智能的主张对照阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "McCarthy"
+  },
+  "minsky-lecture": {
+    "year": 1970,
+    "title": "Form and Content in Computer Science",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/321574.321575",
+    "note": "比较形式系统与问题内容在计算中的作用，适合思考通用方法与领域知识之间的关系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Minsky"
+  },
+  "symbols-search": {
+    "year": 1976,
+    "title": "Computer Science as Empirical Inquiry: Symbols and Search",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/360018.360022",
+    "note": "理解物理符号系统假说与启发式搜索。文中的智能观是一项研究主张，应与后来的学习方法比较。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Newell · Simon"
+  },
+  "mccarthy-lisp": {
+    "year": 1960,
+    "title": "Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/367177.367199",
+    "note": "从递归函数、符号表达式与解释器理解 Lisp 的核心构造，适合研究程序与数据的统一表示。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "McCarthy"
+  },
+  "newell-knowledge": {
+    "year": 1982,
+    "title": "The Knowledge Level",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0004-3702(82)90012-1",
+    "note": "区分智能体掌握什么知识与知识怎样被实现，适合思考系统行为解释和内部表示的关系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Newell"
+  },
+  "rabin-scott-automata": {
+    "year": 1959,
+    "title": "Finite Automata and Their Decision Problems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1147/rd.32.0114",
+    "note": "通过确定性与非确定性自动机的关系，理解计算模型、等价性和可判定性如何被精确讨论。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rabin · Scott"
+  },
+  "rabin-primality": {
+    "year": 1980,
+    "title": "Probabilistic Algorithm for Testing Primality",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0022-314x(80)90084-0",
+    "note": "观察随机化怎样把数论问题变成高效算法，并学习区分概率保证、确定性证明与实现假设。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rabin"
+  },
+  "bachman-lecture": {
+    "year": 1973,
+    "title": "The Programmer as Navigator",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/355611.362534",
+    "note": "从导航式访问理解早期数据库设计，再与关系模型对比，辨认数据结构与查询方式之间的取舍。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Bachman"
+  },
+  "scott-lecture": {
+    "year": 1977,
+    "title": "Logic and Programming Languages",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/359810.359826",
+    "note": "理解为什么程序语言需要数学语义，以及逻辑工具如何帮助解释程序行为。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Scott"
+  },
+  "scott-lattices": {
+    "year": 1976,
+    "title": "Data Types as Lattices",
+    "kind": "论文",
+    "url": "https://doi.org/10.1137/0205037",
+    "note": "从序结构与不动点理解递归程序的意义，适合作为指称语义和域理论的进阶入口。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Scott"
+  },
+  "backus-fortran": {
+    "year": 1957,
+    "title": "The FORTRAN Automatic Coding System",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1455567.1455599",
+    "note": "观察编译器怎样通过优化让高级语言具有实用性能，理解语言采用与工程实现之间的关系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Backus · Stern · Ziller · Hughes · Nutt · Beeber · Best · Goldberg · Haibt · Herrick · Nelson · Sayre · Sheridan"
+  },
+  "backus-lecture": {
+    "year": 1978,
+    "title": "Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/359576.359579",
+    "note": "由 FORTRAN 的创造者重新审视命令式程序，比较函数组合与逐条修改状态的思维方式。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Backus"
+  },
+  "rabin-lecture": {
+    "year": 1977,
+    "title": "Complexity of Computations",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/359810.359816",
+    "note": "从计算资源而非仅从可计算性审视算法，适合衔接早期自动机理论与复杂性研究。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rabin"
+  },
+  "floyd-meanings": {
+    "year": 1967,
+    "title": "Assigning Meanings to Programs",
+    "kind": "论文",
+    "url": "https://doi.org/10.1090/psapm/019/0235771",
+    "note": "把程序控制流程与逻辑断言联系起来，理解程序正确性如何成为可推理的对象。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Floyd"
+  },
+  "floyd-path": {
+    "year": 1962,
+    "title": "Algorithm 97: Shortest Path",
+    "kind": "算法短文",
+    "url": "https://doi.org/10.1145/367766.368168",
+    "note": "用极短的算法描述理解全点对最短路径，适合与循环不变式和动态规划解释一同阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Floyd"
+  },
+  "floyd-lecture": {
+    "year": 1979,
+    "title": "The Paradigms of Programming",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/359138.359140",
+    "note": "把注意力从某种语言转向解题范式，思考程序员如何积累可迁移的方法。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Floyd"
+  },
+  "iverson-lecture": {
+    "year": 1980,
+    "title": "Notation as a Tool of Thought",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/358896.358899",
+    "note": "观察符号记法如何影响推理、发现和交流，适合反思语言设计与数学表达之间的联系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Iverson"
+  },
+  "iverson-system360": {
+    "year": 1964,
+    "title": "A Formal Description of SYSTEM/360",
+    "kind": "论文",
+    "url": "https://doi.org/10.1147/sj.32.0198",
+    "note": "看数学化记法如何用于描述真实机器，为阅读指令集规范和形式化系统模型提供历史案例。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Falkoff · Iverson · Sussenguth"
+  },
+  "hoare-quicksort": {
+    "year": 1962,
+    "title": "Quicksort",
+    "kind": "论文",
+    "url": "https://doi.org/10.1093/comjnl/5.1.10",
+    "note": "从分治、划分与性能分析理解一个经典算法，适合练习区分平均表现和最坏情况。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hoare"
+  },
+  "hoare-axioms": {
+    "year": 1969,
+    "title": "An Axiomatic Basis for Computer Programming",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/363235.363259",
+    "note": "从前置条件、后置条件与推理规则进入程序验证，理解代码之外为什么还需要规格。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hoare"
+  },
+  "hoare-lecture": {
+    "year": 1981,
+    "title": "The Emperor's Old Clothes",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/358549.358561",
+    "note": "通过语言设计和项目经验反思复杂性、可靠性与工程判断，适合系统设计者阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hoare"
+  },
+  "codd-relational": {
+    "year": 1970,
+    "title": "A Relational Model of Data for Large Shared Data Banks",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/362384.362685",
+    "note": "理解数据独立性与关系模型怎样减少应用程序对物理存储的依赖，是数据库思想的重要入口。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Codd"
+  },
+  "codd-lecture": {
+    "year": 1982,
+    "title": "Relational Database: A Practical Foundation for Productivity",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/358396.358400",
+    "note": "从生产力与系统实践理解关系方法，适合与早期导航式数据库的设计立场对照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Codd"
+  },
+  "cook-completeness": {
+    "year": 1971,
+    "title": "The Complexity of Theorem-Proving Procedures",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/800157.805047",
+    "note": "理解通过归约比较问题难度的思想，阅读时注意判定问题、输入规模与时间界的定义。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cook"
+  },
+  "cook-lecture": {
+    "year": 1983,
+    "title": "An Overview of Computational Complexity",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/358141.358144",
+    "note": "建立复杂性类别、归约与未解决问题的整体视野，适合在学习具体证明前后反复对照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cook"
+  },
+  "cook-proof": {
+    "year": 1979,
+    "title": "The Relative Efficiency of Propositional Proof Systems",
+    "kind": "论文",
+    "url": "https://doi.org/10.2307/2273702",
+    "note": "把证明本身看作计算对象，理解证明长度、验证效率与复杂性理论之间的联系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cook · Reckhow"
+  },
+  "wirth-refinement": {
+    "year": 1971,
+    "title": "Program Development by Stepwise Refinement",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/362575.362577",
+    "note": "通过逐步细化构造程序，观察抽象、分解和实现细节怎样依次进入设计。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Wirth"
+  },
+  "wirth-lecture": {
+    "year": 1985,
+    "title": "From Programming Language Design to Computer Construction",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/2786.2789",
+    "note": "沿着语言、编译器与机器设计的共同演进，理解简单设计需要哪些系统条件。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Wirth"
+  },
+  "wirth-lean": {
+    "year": 1995,
+    "title": "A Plea for Lean Software",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/2.348001",
+    "note": "从软件膨胀与复杂性出发，讨论可理解性、性能和工程习惯，适合与现代软件栈对照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Wirth"
+  },
+  "karp-reductions": {
+    "year": 1972,
+    "title": "Reducibility Among Combinatorial Problems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1007/978-1-4684-2001-2_9",
+    "note": "阅读一组问题如何通过归约联系起来，学习 NP 完全性证明中的共同结构。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Karp"
+  },
+  "karp-lecture": {
+    "year": 1986,
+    "title": "Combinatorics, Complexity, and Randomness",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/5657.5658",
+    "note": "把组合问题、计算困难和随机化放在同一视野中，理解理论工具如何改变算法设计。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Karp"
+  },
+  "hopcroft-tarjan-planarity": {
+    "year": 1974,
+    "title": "Efficient Planarity Testing",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/321850.321852",
+    "note": "看图结构性质怎样转化为高效算法，是理解线性时间图算法设计的经典案例。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hopcroft · Tarjan"
+  },
+  "karp-randomized": {
+    "year": 1991,
+    "title": "An Introduction to Randomized Algorithms",
+    "kind": "综述",
+    "url": "https://doi.org/10.1016/0166-218x(91)90086-c",
+    "note": "建立随机算法的基本设计视角，尤其注意错误概率与运行时间保证的区别。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Karp"
+  },
+  "hopcroft-tarjan-algorithms": {
+    "year": 1973,
+    "title": "Algorithm 447: Efficient Algorithms for Graph Manipulation",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/362248.362272",
+    "note": "从深度优先搜索出发观察多种图算法之间的联系，适合学习可复用的算法骨架。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hopcroft · Tarjan"
+  },
+  "hopcroft-lecture": {
+    "year": 1987,
+    "title": "Computer Science: The Emergence of a Discipline",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/214748.214750",
+    "note": "回顾计算机科学怎样形成自己的问题、理论与教育体系，适合思考学科训练的长期价值。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hopcroft"
+  },
+  "tarjan-lecture": {
+    "year": 1987,
+    "title": "Algorithmic Design",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/214748.214752",
+    "note": "关注数据结构与算法相互配合的设计过程，理解效率提升背后的结构性洞察。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Tarjan"
+  },
+  "cocke-strength": {
+    "year": 1977,
+    "title": "An Algorithm for Reduction of Operator Strength",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/359863.359888",
+    "note": "通过强度削弱理解编译器如何在保持语义的同时改变计算代价，适合连接程序分析与机器执行。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cocke · Kennedy"
+  },
+  "cocke-lecture": {
+    "year": 1988,
+    "title": "The Search for Performance in Scientific Processors",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/42392.42394",
+    "note": "观察科学计算性能问题怎样同时受到体系结构、存储与编译技术影响。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cocke"
+  },
+  "sutherland-display": {
+    "year": 1968,
+    "title": "A Head-Mounted Three Dimensional Display",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1476589.1476686",
+    "note": "理解早期沉浸式显示如何组合几何、追踪与硬件约束，适合研究交互系统的技术起点。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Sutherland"
+  },
+  "kahan-summation": {
+    "year": 1965,
+    "title": "Pracniques: Further Remarks on Reducing Truncation Errors",
+    "kind": "技术短文",
+    "url": "https://doi.org/10.1145/363707.363723",
+    "note": "理解累加中的舍入误差和补偿思路；在机器学习与科学计算中，数学等价不保证数值等价。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Kahan"
+  },
+  "sutherland-lecture": {
+    "year": 1989,
+    "title": "Micropipelines",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/63526.63532",
+    "note": "从异步电路的握手机制思考并发与流水线，展示同一研究者跨越图形与硬件设计的兴趣。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Sutherland"
+  },
+  "corbato-ctss": {
+    "year": 1962,
+    "title": "An Experimental Time-Sharing System",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1460833.1460871",
+    "note": "观察早期分时系统怎样组织多人共享计算资源，理解交互需求如何改变操作系统。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Corbató · Merwin-Daggett · Daley"
+  },
+  "corbato-multics": {
+    "year": 1972,
+    "title": "Multics—The First Seven Years",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1478873.1478950",
+    "note": "通过系统建设的长期回顾，理解设计目标、实现复杂性与真实使用之间的张力。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Corbató · Saltzer · Clingen",
+    "dateLabel": "1972 年 AFIPS 春季会议论文"
+  },
+  "milner-polymorphism": {
+    "year": 1978,
+    "title": "A Theory of Type Polymorphism in Programming",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0022-0000(78)90014-4",
+    "note": "理解如何让通用程序同时获得静态类型保证，为学习类型推断与函数式语言打基础。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Milner"
+  },
+  "milner-ccs": {
+    "year": 1980,
+    "title": "A Calculus of Communicating Systems",
+    "kind": "专著",
+    "url": "https://doi.org/10.1007/3-540-10235-3",
+    "note": "用小型演算描述并发交互，适合学习如何把直觉性的通信过程变成可推理的模型。",
+    "access": "英文 · 出版社页面，全文获取方式见来源"
+  },
+  "milner-lecture": {
+    "year": 1993,
+    "title": "Elements of Interaction",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/151233.151240",
+    "note": "从交互而非单机函数计算出发理解并发系统，适合与现代分布式服务的建模问题对照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Milner"
+  },
+  "lampson-hints": {
+    "year": 1983,
+    "title": "Hints for Computer System Design",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/800217.806614",
+    "note": "把接口、实现、性能与容错组织成设计建议；应结合具体约束理解这些经验而非机械套用。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lampson"
+  },
+  "lampson-mesa": {
+    "year": 1980,
+    "title": "Experience with Processes and Monitors in Mesa",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/358818.358824",
+    "note": "观察并发原语落到真实语言和系统后出现的问题，理解抽象机制与工程细节如何相互影响。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lampson · Redell"
+  },
+  "lampson-security": {
+    "year": 2004,
+    "title": "Computer Security in the Real World",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/mc.2004.17",
+    "note": "从真实部署条件审视安全机制，适合思考技术保证、可用性与组织成本之间的关系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lampson"
+  },
+  "corbato-lecture": {
+    "year": 1991,
+    "title": "On Building Systems That Will Fail",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/114669.114686",
+    "note": "把失败视作复杂系统的正常条件，思考模块化、恢复能力与工程组织。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Corbató"
+  },
+  "hartmanis-stearns-complexity": {
+    "year": 1965,
+    "title": "On the Computational Complexity of Algorithms",
+    "kind": "论文",
+    "url": "https://doi.org/10.1090/s0002-9947-1965-0170805-7",
+    "note": "从时间资源和机器模型建立复杂性研究的基本问题，适合与后来的 NP 完全性理论串读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hartmanis · Stearns"
+  },
+  "stearns-lecture": {
+    "year": 1994,
+    "title": "It's Time to Reconsider Time",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/188280.188379",
+    "note": "重新审视时间作为计算资源的含义，适合反思抽象模型与物理实现之间的距离。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Stearns"
+  },
+  "feigenbaum-lecture": {
+    "year": 1996,
+    "title": "How the \"What\" Becomes the \"How\"",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/229459.229471",
+    "note": "从知识工程的经验理解知识表示、领域经验和程序行为之间的联系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Feigenbaum"
+  },
+  "hartmanis-lecture": {
+    "year": 1994,
+    "title": "On Computational Complexity and the Nature of Computer Science",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/194313.214781",
+    "note": "把复杂性理论放回学科发展的背景中，理解理论研究如何选择问题并形成标准。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hartmanis"
+  },
+  "reddy-lecture": {
+    "year": 1996,
+    "title": "To Dream the Possible Dream",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/229459.233436",
+    "note": "通过人工智能系统研究的目标与限制，思考大胆愿景如何转化为可检验的研究计划。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Reddy"
+  },
+  "reddy-speech": {
+    "year": 1976,
+    "title": "Speech Recognition by Machine: A Review",
+    "kind": "综述",
+    "url": "https://doi.org/10.1109/proc.1976.10158",
+    "note": "回顾语音识别面对的声学、语言与搜索问题，为理解今天的端到端方法提供历史参照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Reddy"
+  },
+  "blum-complexity": {
+    "year": 1967,
+    "title": "A Machine-Independent Theory of the Complexity of Recursive Functions",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/321386.321395",
+    "note": "用公理化方式研究复杂性，适合追问哪些结论依赖机器模型、哪些具有更一般的意义。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Blum"
+  },
+  "blum-micali": {
+    "year": 1984,
+    "title": "How to Generate Cryptographically Strong Sequences of Pseudo-Random Bits",
+    "kind": "论文",
+    "url": "https://doi.org/10.1137/0213053",
+    "note": "理解密码学中的伪随机性怎样由计算困难性刻画，并区分统计外观与计算不可预测性。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Blum · Micali"
+  },
+  "blum-checking": {
+    "year": 1989,
+    "title": "Designing Programs That Check Their Work",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/73007.73015",
+    "note": "把检验计算结果和重新执行计算区分开，适合思考可信计算与程序正确性的新组织方式。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Blum · Kannan"
+  },
+  "pnueli-temporal": {
+    "year": 1977,
+    "title": "The Temporal Logic of Programs",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/sfcs.1977.32",
+    "note": "用时间逻辑表达程序随时间演化的性质，理解安全性与活性为何需要不同的规格语言。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Pnueli"
+  },
+  "pnueli-book": {
+    "year": 1995,
+    "title": "Temporal Verification of Reactive Systems: Safety",
+    "kind": "专著",
+    "url": "https://doi.org/10.1007/978-1-4612-4222-2",
+    "note": "系统学习反应式系统的规格与安全性证明，从零散技巧走向完整验证方法。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Manna · Pnueli"
+  },
+  "gray-notes": {
+    "year": 1978,
+    "title": "Notes on Data Base Operating Systems",
+    "kind": "章节",
+    "url": "https://doi.org/10.1007/3-540-08755-9_9",
+    "note": "把并发控制、日志与恢复放在操作系统背景下理解，适合建立数据库实现的整体视角。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Gray"
+  },
+  "brooks-silver": {
+    "year": 1987,
+    "title": "No Silver Bullet—Essence and Accidents of Software Engineering",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/mc.1987.1663532",
+    "note": "区分软件开发的本质困难和可被工具削减的困难，适合审视关于开发效率的宏大承诺。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Brooks"
+  },
+  "yao-secure": {
+    "year": 1982,
+    "title": "Protocols for Secure Computations",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/sfcs.1982.38",
+    "note": "从多方协作又不泄露输入的目标出发，理解安全计算的基本研究问题。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Yao"
+  },
+  "yao-trapdoor": {
+    "year": 1982,
+    "title": "Theory and Application of Trapdoor Functions",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/sfcs.1982.45",
+    "note": "连接单向性、伪随机性与密码协议，适合阅读计算困难性如何转化为安全性。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Yao"
+  },
+  "simula": {
+    "year": 1966,
+    "title": "SIMULA—An ALGOL-Based Simulation Language",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/365813.365819",
+    "note": "观察模拟任务怎样推动对象、进程与语言机制的发展，理解面向对象思想的实际起点。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Dahl · Nygaard"
+  },
+  "simula-history": {
+    "year": 1978,
+    "title": "The Development of the SIMULA Languages",
+    "kind": "历史回顾",
+    "url": "https://doi.org/10.1145/800025.808391",
+    "note": "由设计者回顾需求与取舍，适合区分语言后来形成的教科书概念与最初的工程动机。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Nygaard · Dahl"
+  },
+  "yao-communication": {
+    "year": 1979,
+    "title": "Some Complexity Questions Related to Distributive Computing",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/800135.804414",
+    "note": "把通信量当作计算资源，理解分布式任务为何存在独立于本地计算速度的限制。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Yao"
+  },
+  "rsa": {
+    "year": 1978,
+    "title": "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems",
+    "kind": "论文",
+    "url": "https://doi.org/10.21236/ada606588",
+    "note": "理解公钥加密与数字签名的基本构造；阅读经典方案时需区分原始描述和现代安全实现。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rivest · Shamir · Adleman"
+  },
+  "shamir-sharing": {
+    "year": 1979,
+    "title": "How to Share a Secret",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/359168.359176",
+    "note": "从多项式插值理解门限秘密共享，适合研究如何把信任分散到多个参与方。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Shamir"
+  },
+  "shamir-ip": {
+    "year": 1992,
+    "title": "IP = PSPACE",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/146585.146609",
+    "note": "理解交互如何改变验证能力，是从静态证明走向交互式证明的重要入口。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Shamir"
+  },
+  "adleman-dna": {
+    "year": 1994,
+    "title": "Molecular Computation of Solutions to Combinatorial Problems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1126/science.7973651",
+    "note": "观察计算怎样用分子过程实现；尤其注意实验规模、资源消耗与抽象计算能力的区别。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Adleman"
+  },
+  "adleman-primality": {
+    "year": 1983,
+    "title": "On Distinguishing Prime Numbers from Composite Numbers",
+    "kind": "论文",
+    "url": "https://doi.org/10.2307/2006975",
+    "note": "比较确定性数论方法与随机素性检验，理解算法保证与计算成本之间的取舍。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Adleman · Pomerance · Rumely"
+  },
+  "rivest-learning": {
+    "year": 1987,
+    "title": "Learning Decision Lists",
+    "kind": "论文",
+    "url": "https://doi.org/10.1007/bf00058680",
+    "note": "观察一种可分析的学习表示，适合把分类模型、样本与计算复杂性联系起来。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rivest"
+  },
+  "kay-smalltalk": {
+    "year": 1993,
+    "title": "The Early History of Smalltalk",
+    "kind": "历史回顾",
+    "url": "https://doi.org/10.1145/154766.155364",
+    "note": "由设计者回顾消息、对象与个人计算的构想，适合研究语言如何承载交互愿景。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Kay"
+  },
+  "kay-media": {
+    "year": 1977,
+    "title": "Personal Dynamic Media",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/c-m.1977.217672",
+    "note": "把计算机视为可创造与操作的媒介，适合思考教育、界面与终端用户编程。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Kay · Goldberg"
+  },
+  "algol60": {
+    "year": 1963,
+    "title": "Revised Report on the Algorithmic Language ALGOL 60",
+    "kind": "语言报告",
+    "url": "https://doi.org/10.1145/366193.366201",
+    "note": "把语法、语义和实现问题分开阅读，理解语言规范如何成为不同实现之间的共同契约。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Naur（编） · Backus 等"
+  },
+  "internet-assessment": {
+    "year": 2011,
+    "title": "Assessing the Internet: Lessons Learned, Strategies for Evolution, and Future Possibilities",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/1283920.1961919",
+    "note": "回顾互联网设计如何支持增长，又积累了哪些限制，适合研究长期演进的系统架构。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cerf · Kahn",
+    "dateLabel": "ACM 收录年份 2011"
+  },
+  "naur-theory": {
+    "year": 1985,
+    "title": "Programming as Theory Building",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0165-6074(85)90032-8",
+    "note": "把编程视为建立理解而不只是生成代码，适合思考维护、团队知识与文档的边界。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Naur"
+  },
+  "tcp": {
+    "year": 1974,
+    "title": "A Protocol for Packet Network Intercommunication",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/tcom.1974.1092259",
+    "note": "理解异构网络如何通过协议协同工作，关注端到端通信与网络内部机制的分工。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cerf · Kahn"
+  },
+  "naur-lecture": {
+    "year": 2007,
+    "title": "Computing Versus Human Thinking",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/1188913.1188922",
+    "note": "阅读一位语言设计者对人类思维与形式化计算关系的不同立场，适合与符号主义 AI 对照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Naur"
+  },
+  "allen-control": {
+    "year": 1970,
+    "title": "Control Flow Analysis",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/800028.808479",
+    "note": "理解编译器如何把控制流程转化为可分析的结构，是程序优化与静态分析的基础入口。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Allen"
+  },
+  "clarke-emerson": {
+    "year": 1981,
+    "title": "Design and Synthesis of Synchronization Skeletons Using Branching Time Temporal Logic",
+    "kind": "论文",
+    "url": "https://doi.org/10.1007/bfb0025774",
+    "note": "把时序逻辑规格与自动检查连接起来，理解模型检验与手工证明的方法差异。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Clarke · Emerson",
+    "dateLabel": "1981 年会议；论文集出版于 1982 年"
+  },
+  "queille-sifakis": {
+    "year": 1982,
+    "title": "Specification and Verification of Concurrent Systems in CESAR",
+    "kind": "论文",
+    "url": "https://doi.org/10.1007/3-540-11494-7_22",
+    "note": "从具体工具理解有限状态系统如何被自动验证，适合研究理论方法落地时的建模选择。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Queille · Sifakis"
+  },
+  "model-checking-lecture": {
+    "year": 2009,
+    "title": "Model Checking: Algorithmic Verification and Debugging",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/1592761.1592781",
+    "note": "从三位共同获奖者的回顾理解模型检验的发展、应用和状态空间带来的挑战。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Clarke · Emerson · Sifakis"
+  },
+  "emerson-temporal": {
+    "year": 1990,
+    "title": "Temporal and Modal Logic",
+    "kind": "章节",
+    "url": "https://doi.org/10.1016/b978-0-444-88074-1.50021-4",
+    "note": "系统比较时间逻辑与模态逻辑的表达能力，适合为验证语言和模型检验算法打基础。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Emerson"
+  },
+  "sifakis-design": {
+    "year": 2011,
+    "title": "A Vision for Computer Science—The System Perspective",
+    "kind": "论文",
+    "url": "https://doi.org/10.2478/s13537-011-0008-y",
+    "note": "从系统整体讨论计算机科学的研究方向，适合思考正确性与性能等多种要求如何共存。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Sifakis"
+  },
+  "liskov-wing": {
+    "year": 1994,
+    "title": "A Behavioral Notion of Subtyping",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/197320.197383",
+    "note": "从行为规格理解替换原则，避免把继承语法与可安全替换混为一谈。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Liskov · Wing"
+  },
+  "liskov-abstraction": {
+    "year": 1974,
+    "title": "Programming with Abstract Data Types",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/800233.807045",
+    "note": "理解数据抽象为何需要同时约束接口与实现，适合连接语言机制与模块化设计。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Liskov · Zilles"
+  },
+  "liskov-lecture": {
+    "year": 2011,
+    "title": "The Power of Abstraction",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/1283920.1962421",
+    "note": "回顾抽象怎样支持语言与分布式系统设计，适合思考长期有效的软件结构。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Liskov",
+    "dateLabel": "ACM 收录年份 2011"
+  },
+  "thacker-firefly": {
+    "year": 1988,
+    "title": "Firefly: A Multiprocessor Workstation",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/12.2243",
+    "note": "从完整工作站理解多处理器、缓存一致性和系统软件之间的协同。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Thacker · Stewart · Satterthwaite",
+    "dateLabel": "1988 年期刊版；会议版发表于 1987 年"
+  },
+  "valiant-learning": {
+    "year": 1984,
+    "title": "A Theory of the Learnable",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1968.1972",
+    "note": "理解 PAC 学习如何明确样本、计算和泛化之间的关系，是学习理论的重要起点。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Valiant"
+  },
+  "valiant-permanent": {
+    "year": 1979,
+    "title": "The Complexity of Computing the Permanent",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0304-3975(79)90044-6",
+    "note": "看计数问题为何需要超出判定问题的复杂性视角，适合学习 #P 完全性。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Valiant"
+  },
+  "valiant-bsp": {
+    "year": 1990,
+    "title": "A Bridging Model for Parallel Computation",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/79173.79181",
+    "note": "理解并行计算模型怎样连接算法与机器，关注通信和同步成本而非只计算算术操作。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Valiant"
+  },
+  "pearl-tools": {
+    "year": 2019,
+    "title": "The Seven Tools of Causal Inference, with Reflections on Machine Learning",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/3241036",
+    "note": "从一组具体工具理解预测与因果推断的差别，同时辨认各项结论依赖的假设。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Pearl"
+  },
+  "goldwasser-micali-encryption": {
+    "year": 1984,
+    "title": "Probabilistic Encryption",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0022-0000(84)90070-9",
+    "note": "理解加密安全为何需要概率化定义和随机性，适合从直觉安全走向形式化安全。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Goldwasser · Micali"
+  },
+  "zero-knowledge": {
+    "year": 1989,
+    "title": "The Knowledge Complexity of Interactive Proof Systems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1137/0218012",
+    "note": "研究验证结论与泄露知识的区别，理解零知识证明的定义与模拟思想。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Goldwasser · Micali · Rackoff",
+    "dateLabel": "1989 年期刊版；会议版发表于 1985 年"
+  },
+  "gmw": {
+    "year": 1991,
+    "title": "Proofs That Yield Nothing But Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/116825.116852",
+    "note": "理解零知识如何从特例推广到一般问题，阅读时注意计算假设与证明系统模型。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Goldreich · Micali · Wigderson"
+  },
+  "lamport-time": {
+    "year": 1978,
+    "title": "Time, Clocks, and the Ordering of Events in a Distributed System",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/359545.359563",
+    "note": "用事件的偏序关系替代直觉性的全局时间，是理解分布式一致性的重要起点。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lamport"
+  },
+  "lamport-byzantine": {
+    "year": 1982,
+    "title": "The Byzantine Generals Problem",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/357172.357176",
+    "note": "精确区分故障模型和通信假设，理解达成一致所需的条件。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lamport · Shostak · Pease"
+  },
+  "lamport-parliament": {
+    "year": 1998,
+    "title": "The Part-Time Parliament",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/279227.279229",
+    "note": "通过议会隐喻理解 Paxos 的安全性与协议结构，建议结合作者后来的简化说明阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lamport"
+  },
+  "lamport-lecture": {
+    "year": 2015,
+    "title": "The Computer Science of Concurrency",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/2771951",
+    "note": "从并发研究的基本概念反思算法、证明与工程实践的关系。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Lamport"
+  },
+  "ingres": {
+    "year": 1976,
+    "title": "The Design and Implementation of INGRES",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/320473.320476",
+    "note": "观察关系模型怎样进入查询语言、存储与执行机制，适合理解理论与数据库工程的连接。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Stonebraker · Held · Wong · Kreps"
+  },
+  "postgres": {
+    "year": 1986,
+    "title": "The Design of POSTGRES",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/16894.16888",
+    "note": "研究可扩展数据库的目标与取舍，为理解现代数据系统提供历史参照。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Stonebraker · Rowe"
+  },
+  "stonebraker-nosql": {
+    "year": 2010,
+    "title": "SQL Databases v. NoSQL Databases",
+    "kind": "评论",
+    "url": "https://doi.org/10.1145/1721654.1721659",
+    "note": "阅读数据库架构争论中的具体负载与假设，避免把系统选择化约为口号。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Stonebraker"
+  },
+  "diffie-decade": {
+    "year": 1988,
+    "title": "The First Ten Years of Public-Key Cryptography",
+    "kind": "历史回顾",
+    "url": "https://doi.org/10.1109/5.4442",
+    "note": "由参与者回顾公钥密码的形成和争论，适合把技术突破放回问题与实践的背景。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Diffie"
+  },
+  "diffie-hellman": {
+    "year": 1976,
+    "title": "New Directions in Cryptography",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/tit.1976.1055638",
+    "note": "从密钥分发难题理解公钥密码与数字签名，关注协议安全依赖哪些条件。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Diffie · Hellman"
+  },
+  "hellman-tradeoff": {
+    "year": 1980,
+    "title": "A Cryptanalytic Time-Memory Trade-Off",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/tit.1980.1056220",
+    "note": "理解预计算、存储与在线计算怎样交换成本，适合研究攻击模型与参数选择。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hellman"
+  },
+  "web": {
+    "year": 1992,
+    "title": "World-Wide Web",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0169-7552(92)90039-s",
+    "note": "从早期 Web 的目标与组成部分理解开放链接系统为何能够跨越不同计算环境。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Berners-Lee"
+  },
+  "semantic-web": {
+    "year": 2001,
+    "title": "The Semantic Web",
+    "kind": "文章",
+    "url": "https://doi.org/10.1038/nature28055",
+    "note": "阅读对机器可处理语义的早期愿景，适合比较知识表示、标准与真实应用之间的距离。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Berners-Lee · Hendler · Lassila"
+  },
+  "mips": {
+    "year": 1982,
+    "title": "MIPS: A Microprocessor Architecture",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1014194.800930",
+    "note": "观察编译器与处理器设计如何共同决定性能，适合与 RISC I 对照阅读。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hennessy · Jouppi · Przybylski · Rowen · Gross · Baskett · Gill"
+  },
+  "architecture-lecture": {
+    "year": 2019,
+    "title": "A New Golden Age for Computer Architecture",
+    "kind": "图灵奖演讲 · 发表版",
+    "url": "https://doi.org/10.1145/3282307",
+    "note": "讨论通用处理器增长放缓后的架构机会，适合研究专用加速器与软硬件协同。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hennessy · Patterson"
+  },
+  "deep-learning": {
+    "year": 2015,
+    "title": "Deep Learning",
+    "kind": "综述",
+    "url": "https://doi.org/10.1038/nature14539",
+    "note": "建立表示学习、反向传播和深层网络的整体图景，再回到具体模型与实验理解细节。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "LeCun · Bengio · Hinton"
+  },
+  "backprop": {
+    "year": 1986,
+    "title": "Learning Representations by Back-Propagating Errors",
+    "kind": "论文",
+    "url": "https://doi.org/10.1038/323533a0",
+    "note": "理解多层网络怎样学习内部表示，阅读时区分梯度计算方法与模型训练效果。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Rumelhart · Hinton · Williams"
+  },
+  "lecun-documents": {
+    "year": 1998,
+    "title": "Gradient-Based Learning Applied to Document Recognition",
+    "kind": "论文",
+    "url": "https://doi.org/10.1109/5.726791",
+    "note": "从完整识别系统观察网络结构、训练目标和任务设计如何组合，适合连接模型与工程实践。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "LeCun · Bottou · Bengio · Haffner"
+  },
+  "deep-learning-ai": {
+    "year": 2021,
+    "title": "Deep Learning for AI",
+    "kind": "综述",
+    "url": "https://doi.org/10.1145/3448250",
+    "note": "回顾深度学习的能力与研究挑战，适合辨认作者对未来方向的判断与已确立结果。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Bengio · LeCun · Hinton"
+  },
+  "catmull-clark": {
+    "year": 1978,
+    "title": "Recursively Generated B-Spline Surfaces on Arbitrary Topological Meshes",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0010-4485(78)90110-0",
+    "note": "理解细分曲面如何把局部规则变成光滑形状，适合进入几何建模与图形表示。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Catmull · Clark"
+  },
+  "reyes": {
+    "year": 1987,
+    "title": "The Reyes Image Rendering Architecture",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/37401.37414",
+    "note": "从渲染管线理解复杂图像如何被分解成可计算的阶段，连接算法与影视生产需求。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Cook · Carpenter · Catmull"
+  },
+  "aho-ullman-translation": {
+    "year": 1969,
+    "title": "Syntax Directed Translations and the Pushdown Assembler",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/s0022-0000(69)80006-1",
+    "note": "连接形式语言、翻译规则和实现机制，理解编译器如何从数学描述变成具体算法。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Aho · Ullman"
+  },
+  "hanrahan-shading": {
+    "year": 1990,
+    "title": "A Language for Shading and Lighting Calculations",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/97879.97911",
+    "note": "观察着色计算为何需要专门的可编程接口，适合理解渲染语言与图形系统设计。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hanrahan · Lawson"
+  },
+  "hanrahan-skin": {
+    "year": 1993,
+    "title": "Reflection from Layered Surfaces Due to Subsurface Scattering",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/166117.166139",
+    "note": "理解光在表面内部传播对外观的影响，适合从物理过程走向可计算的渲染模型。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Hanrahan · Krueger"
+  },
+  "aho-corasick": {
+    "year": 1975,
+    "title": "Efficient String Matching: An Aid to Bibliographic Search",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/360825.360855",
+    "note": "从多模式匹配理解自动机怎样把一组搜索任务合并处理，适合研究索引与文本处理。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Aho · Corasick"
+  },
+  "dongarra-blas": {
+    "year": 1988,
+    "title": "An Extended Set of FORTRAN Basic Linear Algebra Subprograms",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/42288.42291",
+    "note": "理解可复用线性代数接口如何连接数值算法与不同硬件，适合研究性能可移植性。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Dongarra · Du Croz · Hammarling · Hanson"
+  },
+  "dongarra-level3": {
+    "year": 1990,
+    "title": "A Set of Level 3 Basic Linear Algebra Subprograms",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/77626.79170",
+    "note": "观察把计算组织成矩阵运算怎样改善数据复用，为理解现代高性能计算和 AI 算子提供基础。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Dongarra · Du Croz · Hammarling · Duff"
+  },
+  "ethernet": {
+    "year": 1976,
+    "title": "Ethernet: Distributed Packet Switching for Local Computer Networks",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/360248.360253",
+    "note": "理解共享介质、冲突处理与分布式接入，适合研究网络机制如何响应具体硬件约束。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Metcalfe · Boggs"
+  },
+  "wigderson-randomness": {
+    "year": 1997,
+    "title": "P = BPP If E Requires Exponential Circuits: Derandomizing the XOR Lemma",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/258533.258590",
+    "note": "理解计算困难性如何支持去随机化，注意定理的前提而非将结论理解成无条件消除随机性。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Impagliazzo · Wigderson"
+  },
+  "teleportation": {
+    "year": 1993,
+    "title": "Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels",
+    "kind": "论文",
+    "url": "https://doi.org/10.1103/physrevlett.70.1895",
+    "note": "理解量子态传送需要纠缠与经典通信，避免把它误解为超光速传递信息。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Bennett · Brassard · Crépeau · Jozsa · Peres · Wootters"
+  },
+  "entanglement": {
+    "year": 1996,
+    "title": "Purification of Noisy Entanglement and Faithful Teleportation via Noisy Channels",
+    "kind": "论文",
+    "url": "https://doi.org/10.1103/physrevlett.76.722",
+    "note": "研究不完美纠缠如何被提纯，适合理解理想量子协议与实际噪声之间的距离。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Bennett · Brassard · Popescu · Schumacher · Smolin · Wootters"
+  },
+  "codd-meaning": {
+    "year": 1979,
+    "title": "Extending the Database Relational Model to Capture More Meaning",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/320107.320109",
+    "note": "观察关系模型如何进一步表达语义约束，与 1970 年论文对读能看出问题的演进。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Codd"
+  },
+  "pnueli-logic": {
+    "year": 1992,
+    "title": "The Temporal Logic of Reactive and Concurrent Systems",
+    "kind": "书籍",
+    "url": "https://doi.org/10.1007/978-1-4612-0931-7",
+    "note": "从持续运行的系统出发理解时序规格与推理。与 Manna 合著，适合衔接原始论文和验证实践。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Manna · Pnueli"
+  },
+  "goldwasser-signature": {
+    "year": 1988,
+    "title": "A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks",
+    "kind": "论文",
+    "url": "https://doi.org/10.1137/0217017",
+    "note": "理解数字签名的攻击模型与安全证明如何配合。由 Goldwasser、Micali、Rivest 合作完成。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Goldwasser · Micali · Rivest"
+  },
+  "hanrahan-stream": {
+    "year": 2004,
+    "title": "Brook for GPUs: Stream Computing on Graphics Hardware",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/1015706.1015800",
+    "note": "观察图形处理器如何被组织为通用流式计算平台，连接图形学与后来 GPU 计算的发展。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Buck · Foley · Horn · Sugerman · Fatahalian · Houston · Hanrahan"
+  },
+  "ullman-integration": {
+    "year": 1997,
+    "title": "Information Integration Using Logical Views",
+    "kind": "论文",
+    "url": "https://doi.org/10.1007/3-540-62222-5_34",
+    "note": "用逻辑视图理解来自不同数据源的信息如何组合，适合研究数据集成与查询表达。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Ullman"
+  },
+  "bb84": {
+    "year": 1984,
+    "title": "Quantum Cryptography: Public Key Distribution and Coin Tossing",
+    "kind": "论文 · 重印版",
+    "url": "https://doi.org/10.1016/j.tcs.2014.05.025",
+    "note": "量子密码的奠基材料之一：观察量子测量如何改变密钥分发。原作发表于 1984 年，此链接为 2014 年重印版。",
+    "access": "英文 · 出版社页面，全文获取方式见来源",
+    "authors": "Bennett · Brassard",
+    "dateLabel": "1984 年原作 · 链接为 2014 年重印版"
+  },
+  "brooks-toolsmith": {
+    "year": 1996,
+    "title": "The Computer Scientist as Toolsmith II",
+    "kind": "演讲 · Newell 奖",
+    "url": "https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf",
+    "note": "把计算机科学家的工作放回使用者与其他学科的需要之中，反思工具、评价与研究价值。",
+    "access": "英文 · 作者 PDF",
+    "authors": "Brooks",
+    "dateLabel": "1994 年演讲 · 1996 年发表"
+  },
+  "wilkes-turing": {
+    "year": 1997,
+    "title": "Maurice Wilkes on Alan Turing",
+    "kind": "演讲 · 视频",
+    "url": "https://www.cl.cam.ac.uk/relics/wilkes-on-turing/",
+    "note": "听早期计算机研究者回忆 Turing，补充技术论文之外的历史视角。属于个人回忆，应结合其他史料阅读。",
+    "access": "英文 · 剑桥保存的录像"
+  },
+  "minsky-frames": {
+    "year": 1974,
+    "title": "A Framework for Representing Knowledge",
+    "kind": "研究报告",
+    "url": "https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d",
+    "note": "了解框架如何组织情境、默认知识与预期，是进入早期知识表示研究的重要材料。",
+    "access": "英文 · MIT 档案与全文"
+  },
+  "wilkinson-rounding": {
+    "year": 1963,
+    "title": "Rounding Errors in Algebraic Processes",
+    "kind": "书籍",
+    "url": "https://doi.org/10.1137/1.9781611977523",
+    "note": "从有限精度出发理解误差分析，关注为什么数学上等价的计算过程会有不同的数值表现。",
+    "access": "英文 · 出版社页面",
+    "dateLabel": "1963 年原作 · 链接为 2023 年重印版"
+  },
+  "mccarthy-lisp-history": {
+    "year": 1980,
+    "title": "LISP—Notes on Its Past and Future",
+    "kind": "历史回顾",
+    "url": "https://www-formal.stanford.edu/jmc/history/lisp/lisp.html",
+    "note": "由设计者回顾 Lisp 的起点与选择，连接符号处理、语言实现和 AI 研究。",
+    "access": "英文 · 原文"
+  },
+  "bachman-oral": {
+    "year": 2004,
+    "title": "Oral History of Charles W. Bachman",
+    "kind": "访谈 · 口述历史",
+    "url": "https://tomandmaria.com/Tom/Writing/Bachman%20Haigh%20Oral%20History.pdf",
+    "note": "从企业数据处理的真实需求理解 IDS 和早期数据库的诞生。",
+    "access": "英文 · 访谈文字稿",
+    "dateLabel": "2004 年 9 月访谈"
+  },
+  "simon-artificial": {
+    "year": 2019,
+    "title": "The Sciences of the Artificial",
+    "kind": "书籍 · 重印版",
+    "url": "https://doi.org/10.7551/mitpress/12107.001.0001",
+    "note": "把设计、决策与人工系统放进同一研究视野，适合反思计算机科学与其他学科的联系。",
+    "access": "英文 · 出版社页面",
+    "dateLabel": "2019 年重印版"
+  },
+  "backus-history": {
+    "year": 1979,
+    "title": "The History of FORTRAN I, II, and III",
+    "kind": "历史回顾",
+    "url": "https://research.ibm.com/publications/the-history-of-fortran-i-ii-and-iii--1",
+    "note": "由项目领导者回顾早期编译器，了解效率、语言表达和使用者接受程度如何影响设计。",
+    "access": "英文 · IBM 论文记录"
+  },
+  "iverson-autobio": {
+    "year": 2008,
+    "title": "Kenneth E. Iverson: Autobiography",
+    "kind": "自传",
+    "url": "https://www.jsoftware.com/papers/autobio1.htm",
+    "note": "从教育与研究经历理解 APL 和 J 的形成，与《Notation as a Tool of Thought》对读。",
+    "access": "英文 · Jsoftware 档案",
+    "dateLabel": "2008 年整理发表，含 Donald B. McIntyre 的补充"
+  },
+  "hoare-csp": {
+    "year": 1985,
+    "title": "Communicating Sequential Processes",
+    "kind": "书籍",
+    "url": "https://www.cs.ox.ac.uk/ucs/hoarebook.pdf",
+    "note": "用进程与通信组织并发行为，建立比逐行追踪代码更清楚的推理语言。",
+    "access": "英文 · 作者提供 PDF"
+  },
+  "sutherland-sketchpad": {
+    "year": 1963,
+    "title": "Sketchpad: A Man-Machine Graphical Communication System",
+    "kind": "博士论文",
+    "url": "https://hdl.handle.net/1721.1/14979",
+    "note": "观察约束、实例和图形交互怎样在同一个系统中工作，是理解交互式计算的重要原始材料。",
+    "access": "英文 · MIT 档案与全文"
+  },
+  "sutherland-oral": {
+    "year": 2017,
+    "title": "Oral History of Ivan Sutherland, Part 1",
+    "kind": "访谈 · 口述历史",
+    "url": "https://archive.computerhistory.org/resources/access/text/2023/02/102738195-05-01-acc.pdf",
+    "note": "回顾 Sketchpad、图形学与研究管理的经历，补充论文背后的选择和研究环境。",
+    "access": "英文 · CHM 文字稿",
+    "dateLabel": "2017 年访谈 · 2023 年公开档案"
+  },
+  "kahan-ieee": {
+    "year": 1997,
+    "title": "Lecture Notes on the Status of IEEE Standard 754",
+    "kind": "技术讲义",
+    "url": "https://people.eecs.berkeley.edu/~wkahan/ieee754status/IEEE754.PDF",
+    "note": "解释舍入、异常值和浮点运算设计中的细节，适合在数值编程时对照阅读。",
+    "access": "英文 · 作者 PDF",
+    "dateLabel": "1997 年 10 月版本"
+  },
+  "kahan-interview": {
+    "year": 1998,
+    "title": "An Interview with the Old Man of Floating-Point",
+    "kind": "访谈",
+    "url": "https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html",
+    "note": "了解 IEEE 754 背后的争论与工程决策，体会标准怎样平衡数学、硬件和软件需求。",
+    "access": "英文 · 原文"
+  },
+  "feigenbaum-art": {
+    "year": 1977,
+    "title": "The Art of Artificial Intelligence: Themes and Case Studies of Knowledge Engineering",
+    "kind": "会议论文",
+    "url": "https://www.ijcai.org/Past%20Proceedings/IJCAI-77-VOL2/PDF/092.pdf",
+    "note": "从专家系统案例理解领域知识为什么重要，并思考知识获取与维护的代价。",
+    "access": "英文 · IJCAI 原文 PDF"
+  },
+  "feigenbaum-oral": {
+    "year": 2007,
+    "title": "Edward Feigenbaum: Oral Histories",
+    "kind": "访谈 · 口述历史",
+    "url": "https://computerhistory.org/blog/chm-releases-new-recordings-and-personal-stories-with-ai-expert-systems-pioneers/",
+    "note": "结合与 Nils Nilsson、Donald Knuth 的对话，回顾专家系统与知识工程的研究环境。",
+    "access": "英文 · CHM 录像与文字稿入口",
+    "dateLabel": "2007 年访谈 · 2020 年档案介绍"
+  },
+  "reddy-oral": {
+    "year": 2021,
+    "title": "Oral History of Raj Reddy",
+    "kind": "访谈 · 口述历史",
+    "url": "https://archive.computerhistory.org/resources/access/text/2021/06/102792182-05-01-acc.pdf",
+    "note": "从成长经历、语音研究与机器人研究所建设，理解 AI 如何走向可工作的系统。",
+    "access": "英文 · CHM 文字稿",
+    "dateLabel": "2021 年 4 月 14 日访谈"
+  },
+  "engelbart-augment": {
+    "year": 1962,
+    "title": "Augmenting Human Intellect: A Conceptual Framework",
+    "kind": "研究报告",
+    "url": "https://dougengelbart.org/content/view/138/",
+    "note": "从人与工具共同工作的系统出发理解“增强智力”，是读懂后来 NLS 演示的概念起点。",
+    "access": "英文 · 原文"
+  },
+  "engelbart-demo": {
+    "year": 1968,
+    "title": "The Mother of All Demos",
+    "kind": "系统演示 · 视频",
+    "url": "https://dougengelbart.org/mousesite/1968Demo.html",
+    "note": "观看超文本、编辑与远程协作如何连成完整工作流程，体会交互创新的整体性。",
+    "access": "英文 · 演示录像与背景"
+  },
+  "engelbart-workshop": {
+    "year": 1985,
+    "title": "Workstation History and the Augmented Knowledge Workshop",
+    "kind": "历史回顾",
+    "url": "https://www.dougengelbart.org/content/view/112/000/",
+    "note": "由 Engelbart 回顾工作站与知识工作的研究线索，把交互工具放回长期协作愿景中。",
+    "access": "英文 · 原文"
+  },
+  "gray-transactions": {
+    "year": 1981,
+    "title": "The Transaction Concept: Virtues and Limitations",
+    "kind": "会议论文",
+    "url": "https://web.stanford.edu/class/archive/cs/cs240/cs240.1036/readings/Gray81.pdf",
+    "note": "理解事务解决了什么、又留下哪些限制，是连接数据库一致性与系统实现的经典入口。",
+    "access": "英文 · 论文 PDF"
+  },
+  "gray-lecture": {
+    "year": 1999,
+    "title": "What Next? A Dozen Information-Technology Research Goals",
+    "kind": "图灵奖演讲 · 文字稿",
+    "url": "https://arxiv.org/abs/cs/9911005",
+    "note": "从数据库走向更广的信息技术研究目标，观察系统研究者如何提出长期问题。",
+    "access": "英文 · arXiv 全文"
+  },
+  "gray-oral": {
+    "year": 2002,
+    "title": "Oral History Interview with Jim Gray",
+    "kind": "访谈 · 口述历史",
+    "url": "https://conservancy.umn.edu/bitstreams/bc6b2208-fe17-4cd3-a500-b0b943e3144f/download",
+    "note": "回顾数据库、事务处理和产业研究的实践背景，补充技术文章中的抽象模型。",
+    "access": "英文 · 明尼苏达大学档案 PDF",
+    "dateLabel": "2002 年 1 月 3 日访谈"
+  },
+  "brooks-month": {
+    "year": 1995,
+    "title": "The Mythical Man-Month",
+    "kind": "书籍 · 周年版",
+    "url": "https://www.pearson.com/en-us/subject-catalog/p/mythical-man-month-the-essays-on-software-engineering-anniversary-edition/P200000000149/9780201835953",
+    "note": "从项目协作、概念完整性与进度管理理解大型软件开发的困难。",
+    "access": "英文 · 出版社页面",
+    "dateLabel": "1975 年原作 · 1995 年周年版"
+  },
+  "dahl-birth": {
+    "year": 2001,
+    "title": "The Birth of Object Orientation: The Simula Languages",
+    "kind": "历史回顾",
+    "url": "https://www.mn.uio.no/ifi/english/about/ole-johan-dahl/bibliography/the-birth-of-object-orientation-the-simula-languages.pdf",
+    "note": "由 Dahl 回顾他与 Nygaard 的合作，理解模拟需求如何孕育类、对象等语言机制。",
+    "access": "英文 · 作者手稿 PDF",
+    "dateLabel": "2001 年手稿 · 后收入 2002 年文集"
+  },
+  "kay-smalltalk50": {
+    "year": 2022,
+    "title": "Smalltalk at 50",
+    "kind": "访谈 · 圆桌回顾",
+    "url": "https://computerhistory.org/blog/smalltalk-at-50/",
+    "note": "听 Smalltalk 团队回顾语言、图形界面与学习愿景，也看到个人计算背后的集体工作。",
+    "access": "英文 · CHM 活动记录与视频"
+  },
+  "internet-history": {
+    "year": 1997,
+    "title": "A Brief History of the Internet",
+    "kind": "共同撰写 · 历史回顾",
+    "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+    "note": "由多位互联网参与者共同回顾协议、网络实验与开放协作，帮助理解技术为何能够扩展。",
+    "access": "英文 · 原文"
+  },
+  "allen-oral": {
+    "year": 2001,
+    "title": "Oral History: Frances “Fran” Allen",
+    "kind": "访谈 · 口述历史",
+    "url": "https://ethw.org/Oral-History:Frances_%22Fran%22_Allen",
+    "note": "从数学教学到 IBM 编译器研究，理解程序优化背后的团队、工作方法与职业经历。",
+    "access": "英文 · IEEE History Center 文字稿",
+    "dateLabel": "2001 年 8 月 2 日访谈"
+  },
+  "thacker-alto": {
+    "year": 1979,
+    "title": "Alto: A Personal Computer",
+    "kind": "技术报告",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/25-Alto.pdf",
+    "note": "阅读 Alto 的系统结构，观察有限资源如何支撑图形显示、交互与网络协作。",
+    "access": "英文 · 原报告 PDF",
+    "dateLabel": "1979 年报告 · 1984 年重印"
+  },
+  "thacker-oral": {
+    "year": 2007,
+    "title": "Oral History of Charles “Chuck” Thacker, Part 1",
+    "kind": "访谈 · 口述历史",
+    "url": "https://archive.computerhistory.org/resources/text/Oral_History/Thacker_Charles/Thacker_Charles_1.oral_history.2007.1026581226.pdf",
+    "note": "由硬件设计者回顾研究计算机的建造过程，把系统目标与实际工程约束联系起来。",
+    "access": "英文 · CHM 文字稿",
+    "dateLabel": "2007 年 8 月 29 日访谈"
+  },
+  "valiant-interview": {
+    "year": 2024,
+    "title": "When We Say “Smart,” What Do We Mean?",
+    "kind": "访谈",
+    "url": "https://news.harvard.edu/gazette/story/2024/10/your-mom-says-youre-so-smart-what-does-she-mean/",
+    "note": "从可教育性讨论智能与学习，把学习理论中的严格模型与更广的人类认知问题对照。",
+    "access": "英文 · 原文"
+  },
+  "pearl-causality": {
+    "year": 2000,
+    "title": "Causality: Models, Reasoning, and Inference — Preface",
+    "kind": "书籍 · 序言",
+    "url": "https://bayes.cs.ucla.edu/BOOK-2K/pref.html",
+    "note": "从作者的研究动机进入因果推断，先区分观察、干预和反事实，再学习具体模型。",
+    "access": "英文 · 作者提供序言"
+  },
+  "diffie-oral": {
+    "year": 2011,
+    "title": "Oral History of Whitfield Diffie",
+    "kind": "访谈 · 口述历史",
+    "url": "https://archive.computerhistory.org/resources/access/text/2015/04/102743051-05-01-acc.pdf",
+    "note": "听 Diffie 回顾开放网络、隐私与公钥密码的研究动机，补充论文中的数学构造。",
+    "access": "英文 · CHM 文字稿",
+    "dateLabel": "2011 年 3 月 25 日访谈"
+  },
+  "hellman-oral": {
+    "year": 1991,
+    "title": "Oral History: Martin Hellman",
+    "kind": "访谈 · 口述历史",
+    "url": "https://ethw.org/Oral-History:Martin_Hellman",
+    "note": "回顾安全通信与公钥密码形成过程中的合作和争论，理解研究问题如何被提出。",
+    "access": "英文 · IEEE History Center 文字稿",
+    "dateLabel": "1991 年 7 月 31 日访谈"
+  },
+  "web-proposal": {
+    "year": 1989,
+    "title": "Information Management: A Proposal",
+    "kind": "原始提案",
+    "url": "https://www.w3.org/History/1989/proposal.html",
+    "note": "从 CERN 的信息组织问题理解 Web 的起点，观察超文本、链接与分布式系统如何结合。",
+    "access": "英文 · 原文"
+  },
+  "architecture-book": {
+    "year": 2017,
+    "title": "Computer Architecture: A Quantitative Approach",
+    "kind": "书籍 · 第六版",
+    "url": "https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1",
+    "note": "以测量和成本分析比较体系结构，建立连接软件工作负载与硬件设计的定量方法。",
+    "access": "英文 · 出版社页面"
+  },
+  "patterson-advice": {
+    "year": 2015,
+    "title": "How to Have a Bad Career in Research/Academia",
+    "kind": "演讲",
+    "url": "https://www2.eecs.berkeley.edu/Colloquium/Archives/15-16/Fall2015/patterson.shtml",
+    "note": "用反向建议反思选题、团队与沟通，适合与 RISC 的研究经历一起阅读。",
+    "access": "英文 · 伯克利演讲页面"
+  },
+  "bengio-language": {
+    "year": 2003,
+    "title": "A Neural Probabilistic Language Model",
+    "kind": "论文",
+    "url": "https://jmlr.org/papers/v3/bengio03a.html",
+    "note": "从分布式词表示和联合学习理解神经语言模型的早期基础，连接统计建模与表示学习。",
+    "access": "英文 · JMLR 全文"
+  },
+  "deep-learning-book": {
+    "year": 2016,
+    "title": "Deep Learning",
+    "kind": "书籍",
+    "url": "https://www.deeplearningbook.org/",
+    "note": "系统学习概率、优化与深层网络，适合在阅读早期论文之后建立完整知识框架。",
+    "access": "英文 · 作者提供在线全文"
+  },
+  "catmull-oral": {
+    "year": 2013,
+    "title": "Oral History of Edwin Catmull",
+    "kind": "访谈 · 口述历史",
+    "url": "https://archive.computerhistory.org/resources/access/text/2014/05/102746614-05-01-acc.pdf",
+    "note": "回顾图形学研究、工具建设与动画制作如何长期互相推动。",
+    "access": "英文 · CHM 文字稿",
+    "dateLabel": "2013 年 3 月 1 日访谈"
+  },
+  "dragon-book": {
+    "year": 2006,
+    "title": "Compilers: Principles, Techniques, and Tools",
+    "kind": "书籍 · 第二版",
+    "url": "https://suif.stanford.edu/dragonbook/",
+    "note": "将语言理论、语法分析、代码生成与优化组织成编译器的完整知识路线。",
+    "access": "英文 · 作者书籍页面与配套材料",
+    "dateLabel": "第二版于 2006 年发行"
+  },
+  "dongarra-lapack": {
+    "year": 1999,
+    "title": "LAPACK Users’ Guide",
+    "kind": "书籍 · 第三版",
+    "url": "https://www.netlib.org/lapack/lug/",
+    "note": "把数值算法与可靠的软件接口联系起来，理解矩阵计算中的精度、存储和性能选择。",
+    "access": "英文 · Netlib 在线全文"
+  },
+  "metcalfe-thesis": {
+    "year": 1973,
+    "title": "Packet Communication",
+    "kind": "研究报告 · 博士论文改写版",
+    "url": "https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-114.pdf",
+    "note": "研究分组通信中的流量、共享资源与性能，是阅读 Ethernet 论文的理论背景。",
+    "access": "英文 · MIT 报告 PDF",
+    "dateLabel": "MIT Project MAC TR-114 · 1973 年 12 月"
+  },
+  "metcalfe-lecture": {
+    "year": 2023,
+    "title": "CONNECTIVITY Is a Thing, Is THE Thing",
+    "kind": "图灵奖演讲",
+    "url": "https://www.csail.mit.edu/event/turing-lecture-connectivity-thing-thing",
+    "note": "从 Ethernet 出发回顾连接技术的演化，理解研究、标准与实际使用如何相互促进。",
+    "access": "英文 · MIT 演讲页面"
+  },
+  "wigderson-book": {
+    "year": 2019,
+    "title": "Mathematics and Computation",
+    "kind": "书籍",
+    "url": "https://www.math.ias.edu/avi/book",
+    "note": "用计算复杂性连接算法、随机性、密码学与数学，为进一步阅读证明提供全景入口。",
+    "access": "英文 · 作者提供电子稿"
+  },
+  "wigderson-interview": {
+    "year": 2024,
+    "title": "Avi Wigderson in Conversation with David Nirenberg",
+    "kind": "获奖人物访谈",
+    "url": "https://www.ias.edu/news/avi-wigderson-2023-acm-am-turing-award",
+    "note": "在获奖背景下了解复杂性研究的思想与动机，再回到书籍和论文中的技术问题。",
+    "access": "英文 · IAS 访谈视频与介绍"
+  },
+  "allen-cocke-dataflow": {
+    "year": 1976,
+    "title": "A Program Data Flow Analysis Procedure",
+    "kind": "论文",
+    "url": "https://research.ibm.com/publications/a-program-data-flow-analysis-procedure",
+    "note": "理解到达定义与活跃信息如何从控制流图中求出，为优化编译器建立可复用的分析方法。",
+    "access": "英文 · IBM 记录与论文入口",
+    "authors": "Allen · Cocke"
+  },
+  "risc": {
+    "year": 1982,
+    "title": "Design and Implementation of RISC I",
+    "kind": "技术报告",
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1982/5449.html",
+    "note": "从指令集、流水线到芯片实现，观察 RISC 的设计原则如何接受实际工程检验。",
+    "access": "英文 · 伯克利报告与 PDF",
+    "authors": "Séquin · Patterson"
+  },
+  "pearl-probability": {
+    "year": 1988,
+    "title": "Probabilistic Reasoning in Intelligent Systems",
+    "kind": "书籍",
+    "url": "https://shop.elsevier.com/books/probabilistic-reasoning-in-intelligent-systems/pearl/978-0-08-051489-5",
+    "note": "从图结构表达不确定知识，理解贝叶斯网络如何组织推理与条件独立性。",
+    "access": "英文 · 出版社页面"
+  },
+  "simon-problems": {
+    "year": 1973,
+    "title": "The Structure of Ill Structured Problems",
+    "kind": "论文",
+    "url": "https://doi.org/10.1016/0004-3702(73)90011-8",
+    "note": "思考真实问题为何缺少完整定义，以及问题求解怎样依赖记忆、表示和外部信息。",
+    "access": "英文 · 出版社页面"
+  },
+  "newell-soar": {
+    "year": 1987,
+    "title": "SOAR: An Architecture for General Intelligence",
+    "kind": "研究报告",
+    "url": "https://doi.org/10.21236/ada188742",
+    "note": "观察通用问题求解、知识表示与学习如何组合成认知架构，连接理论主张与可运行的程序。",
+    "access": "英文 · 出版社页面",
+    "authors": "Newell · Rosenbloom · Laird"
+  },
+  "wilkinson-inversion": {
+    "year": 1961,
+    "title": "Error Analysis of Direct Methods of Matrix Inversion",
+    "kind": "论文",
+    "url": "https://doi.org/10.1145/321075.321076",
+    "note": "以矩阵求逆为例理解舍入误差的传播，为阅读更广的数值稳定性工作建立基础。",
+    "access": "英文 · 出版社页面"
+  }
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "alan-perlis",
+    "name": "Alan J. Perlis",
+    "chinese": "艾伦·佩利斯",
+    "field": "languages",
+    "tag": "编程语言",
+    "source": "https://amturing.acm.org/award_winners/perlis_0132439.cfm"
+  },
+  {
+    "id": "maurice-wilkes",
+    "name": "Maurice V. Wilkes",
+    "chinese": "莫里斯·威尔克斯",
+    "field": "systems",
+    "tag": "存储程序计算机",
+    "source": "https://amturing.acm.org/award_winners/wilkes_1001395.cfm"
+  },
+  {
+    "id": "richard-hamming",
+    "name": "Richard W. Hamming",
+    "chinese": "理查德·汉明",
+    "field": "theory",
+    "tag": "纠错编码",
+    "source": "https://amturing.acm.org/award_winners/hamming_1000652.cfm"
+  },
+  {
+    "id": "marvin-minsky",
+    "name": "Marvin Minsky",
+    "chinese": "马文·明斯基",
+    "field": "ai",
+    "tag": "人工智能",
+    "source": "https://news.mit.edu/2016/marvin-minsky-obituary-0125"
+  },
+  {
+    "id": "james-wilkinson",
+    "name": "James H. Wilkinson",
+    "chinese": "詹姆斯·威尔金森",
+    "field": "theory",
+    "tag": "数值误差分析",
+    "source": "https://amturing.acm.org/award_winners/wilkinson_0671216.cfm"
+  },
+  {
+    "id": "john-mccarthy",
+    "name": "John McCarthy",
+    "chinese": "约翰·麦卡锡",
+    "field": "ai",
+    "tag": "人工智能",
+    "source": "https://amturing.acm.org/award_winners/mccarthy_1118322.cfm"
+  },
+  {
+    "id": "edsger-dijkstra",
+    "name": "Edsger W. Dijkstra",
+    "chinese": "艾兹格·迪杰斯特拉",
+    "field": "languages",
+    "tag": "程序正确性",
+    "source": "https://amturing.acm.org/award_winners/dijkstra_1053701.cfm"
+  },
+  {
+    "id": "charles-bachman",
+    "name": "Charles W. Bachman",
+    "chinese": "查尔斯·巴赫曼",
+    "field": "data",
+    "tag": "数据库技术",
+    "source": "https://amturing.acm.org/award_winners/bachman_9385610.cfm"
+  },
+  {
+    "id": "donald-knuth",
+    "name": "Donald E. Knuth",
+    "chinese": "唐纳德·克努特",
+    "field": "theory",
+    "tag": "算法分析",
+    "source": "https://amturing.acm.org/award_winners/knuth_1013846.cfm"
+  },
+  {
+    "id": "allen-newell",
+    "name": "Allen Newell",
+    "chinese": "艾伦·纽厄尔",
+    "field": "ai",
+    "tag": "人工智能与认知",
+    "source": "https://amturing.acm.org/award_winners/newell_3167755.cfm"
+  },
+  {
+    "id": "herbert-simon",
+    "name": "Herbert A. Simon",
+    "chinese": "赫伯特·西蒙",
+    "field": "ai",
+    "tag": "认知与问题求解",
+    "source": "https://amturing.acm.org/award_winners/simon_1031467.cfm"
+  },
+  {
+    "id": "michael-rabin",
+    "name": "Michael O. Rabin",
+    "chinese": "迈克尔·拉宾",
+    "field": "theory",
+    "tag": "非确定性自动机",
+    "source": "https://amturing.acm.org/award_winners/rabin_9681074.cfm"
+  },
+  {
+    "id": "dana-scott",
+    "name": "Dana S. Scott",
+    "chinese": "达纳·斯科特",
+    "field": "theory",
+    "tag": "自动机理论",
+    "source": "https://amturing.acm.org/award_winners/scott_1193622.cfm"
+  },
+  {
+    "id": "john-backus",
+    "name": "John Backus",
+    "chinese": "约翰·巴克斯",
+    "field": "languages",
+    "tag": "FORTRAN",
+    "source": "https://amturing.acm.org/award_winners/backus_0703524.cfm"
+  },
+  {
+    "id": "robert-floyd",
+    "name": "Robert W. Floyd",
+    "chinese": "罗伯特·弗洛伊德",
+    "field": "languages",
+    "tag": "程序验证",
+    "source": "https://amturing.acm.org/award_winners/floyd_3720707.cfm"
+  },
+  {
+    "id": "kenneth-iverson",
+    "name": "Kenneth E. Iverson",
+    "chinese": "肯尼斯·艾弗森",
+    "field": "languages",
+    "tag": "APL",
+    "source": "https://amturing.acm.org/award_winners/iverson_9147499.cfm"
+  },
+  {
+    "id": "tony-hoare",
+    "name": "C. A. R. Hoare",
+    "chinese": "托尼·霍尔",
+    "field": "languages",
+    "tag": "程序逻辑",
+    "source": "https://amturing.acm.org/award_winners/hoare_4622167.cfm"
+  },
+  {
+    "id": "edgar-codd",
+    "name": "Edgar F. Codd",
+    "chinese": "埃德加·科德",
+    "field": "data",
+    "tag": "关系数据库",
+    "source": "https://amturing.acm.org/award_winners/codd_1000892.cfm"
+  },
+  {
+    "id": "stephen-cook",
+    "name": "Stephen A. Cook",
+    "chinese": "斯蒂芬·库克",
+    "field": "theory",
+    "tag": "NP 完全性",
+    "source": "https://amturing.acm.org/award_winners/cook_n991950.cfm"
+  },
+  {
+    "id": "dennis-ritchie",
+    "name": "Dennis M. Ritchie",
+    "chinese": "丹尼斯·里奇",
+    "field": "systems",
+    "tag": "C · UNIX",
+    "source": "https://amturing.acm.org/award_winners/ritchie_1506389.cfm"
+  },
+  {
+    "id": "ken-thompson",
+    "name": "Ken Thompson",
+    "chinese": "肯·汤普森",
+    "field": "systems",
+    "tag": "UNIX",
+    "source": "https://amturing.acm.org/award_winners/thompson_4588371.cfm"
+  },
+  {
+    "id": "niklaus-wirth",
+    "name": "Niklaus Wirth",
+    "chinese": "尼克劳斯·维尔特",
+    "field": "languages",
+    "tag": "Pascal",
+    "source": "https://amturing.acm.org/award_winners/wirth_1025774.cfm"
+  },
+  {
+    "id": "richard-karp",
+    "name": "Richard M. Karp",
+    "chinese": "理查德·卡普",
+    "field": "theory",
+    "tag": "NP 完全性",
+    "source": "https://amturing.acm.org/award_winners/karp_3256708.cfm"
+  },
+  {
+    "id": "john-hopcroft",
+    "name": "John E. Hopcroft",
+    "chinese": "约翰·霍普克罗夫特",
+    "field": "theory",
+    "tag": "算法与数据结构",
+    "source": "https://amturing.acm.org/award_winners/hopcroft_1053917.cfm"
+  },
+  {
+    "id": "robert-tarjan",
+    "name": "Robert E. Tarjan",
+    "chinese": "罗伯特·塔扬",
+    "field": "theory",
+    "tag": "算法与数据结构",
+    "source": "https://amturing.acm.org/award_winners/tarjan_1092048.cfm"
+  },
+  {
+    "id": "john-cocke",
+    "name": "John Cocke",
+    "chinese": "约翰·科克",
+    "field": "systems",
+    "tag": "RISC 与编译优化",
+    "source": "https://amturing.acm.org/award_winners/cocke_2083115.cfm"
+  },
+  {
+    "id": "ivan-sutherland",
+    "name": "Ivan Sutherland",
+    "chinese": "伊万·萨瑟兰",
+    "field": "graphics",
+    "tag": "交互式图形",
+    "source": "https://amturing.acm.org/award_winners/sutherland_3467412.cfm"
+  },
+  {
+    "id": "william-kahan",
+    "name": "William Kahan",
+    "chinese": "威廉·卡汉",
+    "field": "theory",
+    "tag": "浮点计算",
+    "source": "https://amturing.acm.org/award_winners/kahan_1023746.cfm"
+  },
+  {
+    "id": "fernando-corbato",
+    "name": "Fernando J. Corbató",
+    "chinese": "费尔南多·科尔巴托",
+    "field": "systems",
+    "tag": "分时系统",
+    "source": "https://amturing.acm.org/award_winners/corbato_1009471.cfm"
+  },
+  {
+    "id": "robin-milner",
+    "name": "Robin Milner",
+    "chinese": "罗宾·米尔纳",
+    "field": "languages",
+    "tag": "语言与并发",
+    "source": "https://amturing.acm.org/award_winners/milner_1569367.cfm"
+  },
+  {
+    "id": "butler-lampson",
+    "name": "Butler W. Lampson",
+    "chinese": "巴特勒·兰普森",
+    "field": "systems",
+    "tag": "分布式与个人计算",
+    "source": "https://amturing.acm.org/award_winners/lampson_1142421.cfm"
+  },
+  {
+    "id": "juris-hartmanis",
+    "name": "Juris Hartmanis",
+    "chinese": "尤里斯·哈特马尼斯",
+    "field": "theory",
+    "tag": "计算复杂性",
+    "source": "https://amturing.acm.org/award_winners/hartmanis_1059260.cfm"
+  },
+  {
+    "id": "richard-stearns",
+    "name": "Richard E. Stearns",
+    "chinese": "理查德·斯特恩斯",
+    "field": "theory",
+    "tag": "计算复杂性",
+    "source": "https://amturing.acm.org/award_winners/stearns_1081900.cfm"
+  },
+  {
+    "id": "edward-feigenbaum",
+    "name": "Edward A. Feigenbaum",
+    "chinese": "爱德华·费根鲍姆",
+    "field": "ai",
+    "tag": "知识系统",
+    "source": "https://amturing.acm.org/award_winners/feigenbaum_4167235.cfm"
+  },
+  {
+    "id": "raj-reddy",
+    "name": "D. Raj Reddy",
+    "chinese": "拉吉·瑞迪",
+    "field": "ai",
+    "tag": "人工智能系统",
+    "source": "https://amturing.acm.org/award_winners/reddy_9634208.cfm"
+  },
+  {
+    "id": "manuel-blum",
+    "name": "Manuel Blum",
+    "chinese": "曼努埃尔·布卢姆",
+    "field": "theory",
+    "tag": "计算复杂性",
+    "source": "https://amturing.acm.org/award_winners/blum_4659082.cfm"
+  },
+  {
+    "id": "amir-pnueli",
+    "name": "Amir Pnueli",
+    "chinese": "阿米尔·普努埃利",
+    "field": "languages",
+    "tag": "时序逻辑",
+    "source": "https://amturing.acm.org/award_winners/pnueli_4725172.cfm"
+  },
+  {
+    "id": "douglas-engelbart",
+    "name": "Douglas Engelbart",
+    "chinese": "道格拉斯·恩格尔巴特",
+    "field": "graphics",
+    "tag": "交互式计算",
+    "source": "https://amturing.acm.org/award_winners/engelbart_5078811.cfm"
+  },
+  {
+    "id": "jim-gray",
+    "name": "Jim Gray",
+    "chinese": "吉姆·格雷",
+    "field": "data",
+    "tag": "事务处理",
+    "source": "https://amturing.acm.org/award_winners/gray_3649936.cfm"
+  },
+  {
+    "id": "frederick-brooks",
+    "name": "Frederick P. Brooks Jr.",
+    "chinese": "弗雷德里克·布鲁克斯",
+    "field": "systems",
+    "tag": "软件工程",
+    "source": "https://amturing.acm.org/award_winners/brooks_1002187.cfm"
+  },
+  {
+    "id": "andrew-yao",
+    "name": "Andrew Chi-Chih Yao",
+    "chinese": "姚期智",
+    "field": "theory",
+    "tag": "计算复杂性",
+    "source": "https://amturing.acm.org/award_winners/yao_1611524.cfm"
+  },
+  {
+    "id": "ole-johan-dahl",
+    "name": "Ole-Johan Dahl",
+    "chinese": "奥勒-约翰·达尔",
+    "field": "languages",
+    "tag": "面向对象",
+    "source": "https://amturing.acm.org/award_winners/dahl_6917600.cfm"
+  },
+  {
+    "id": "kristen-nygaard",
+    "name": "Kristen Nygaard",
+    "chinese": "克里斯滕·尼高斯",
+    "field": "languages",
+    "tag": "Simula",
+    "source": "https://amturing.acm.org/award_winners/nygaard_5916220.cfm"
+  },
+  {
+    "id": "leonard-adleman",
+    "name": "Leonard M. Adleman",
+    "chinese": "伦纳德·阿德曼",
+    "field": "security",
+    "tag": "RSA",
+    "source": "https://amturing.acm.org/award_winners/adleman_7308544.cfm"
+  },
+  {
+    "id": "ronald-rivest",
+    "name": "Ronald L. Rivest",
+    "chinese": "罗纳德·李维斯特",
+    "field": "security",
+    "tag": "RSA",
+    "source": "https://amturing.acm.org/award_winners/rivest_1403005.cfm"
+  },
+  {
+    "id": "adi-shamir",
+    "name": "Adi Shamir",
+    "chinese": "阿迪·沙米尔",
+    "field": "security",
+    "tag": "RSA",
+    "source": "https://amturing.acm.org/award_winners/shamir_2327856.cfm"
+  },
+  {
+    "id": "alan-kay",
+    "name": "Alan Kay",
+    "chinese": "艾伦·凯",
+    "field": "graphics",
+    "tag": "个人计算与交互",
+    "source": "https://amturing.acm.org/award_winners/kay_3972189.cfm"
+  },
+  {
+    "id": "vinton-cerf",
+    "name": "Vinton G. Cerf",
+    "chinese": "文顿·瑟夫",
+    "field": "networks",
+    "tag": "TCP/IP",
+    "source": "https://amturing.acm.org/award_winners/cerf_1083211.cfm"
+  },
+  {
+    "id": "robert-kahn",
+    "name": "Robert E. Kahn",
+    "chinese": "罗伯特·卡恩",
+    "field": "networks",
+    "tag": "互联网协议",
+    "source": "https://amturing.acm.org/award_winners/kahn_4598637.cfm"
+  },
+  {
+    "id": "peter-naur",
+    "name": "Peter Naur",
+    "chinese": "彼得·瑙尔",
+    "field": "languages",
+    "tag": "ALGOL 60",
+    "source": "https://amturing.acm.org/award_winners/naur_1024454.cfm"
+  },
+  {
+    "id": "frances-allen",
+    "name": "Frances E. Allen",
+    "chinese": "弗朗西丝·艾伦",
+    "field": "languages",
+    "tag": "编译器优化",
+    "source": "https://amturing.acm.org/award_winners/allen_1012327.cfm"
+  },
+  {
+    "id": "edmund-clarke",
+    "name": "Edmund M. Clarke",
+    "chinese": "埃德蒙·克拉克",
+    "field": "languages",
+    "tag": "模型检验",
+    "source": "https://amturing.acm.org/award_winners/clarke_1167964.cfm"
+  },
+  {
+    "id": "allen-emerson",
+    "name": "E. Allen Emerson",
+    "chinese": "艾伦·爱默生",
+    "field": "languages",
+    "tag": "模型检验",
+    "source": "https://amturing.acm.org/award_winners/emerson_1671460.cfm"
+  },
+  {
+    "id": "joseph-sifakis",
+    "name": "Joseph Sifakis",
+    "chinese": "约瑟夫·西法基斯",
+    "field": "languages",
+    "tag": "模型检验",
+    "source": "https://amturing.acm.org/award_winners/sifakis_1701095.cfm"
+  },
+  {
+    "id": "barbara-liskov",
+    "name": "Barbara Liskov",
+    "chinese": "芭芭拉·利斯科夫",
+    "field": "languages",
+    "tag": "数据抽象",
+    "source": "https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+  },
+  {
+    "id": "charles-thacker",
+    "name": "Charles P. Thacker",
+    "chinese": "查尔斯·撒克尔",
+    "field": "systems",
+    "tag": "个人计算机",
+    "source": "https://amturing.acm.org/award_winners/thacker_1336106.cfm"
+  },
+  {
+    "id": "leslie-valiant",
+    "name": "Leslie G. Valiant",
+    "chinese": "莱斯利·瓦利安特",
+    "field": "theory",
+    "tag": "计算学习理论",
+    "source": "https://amturing.acm.org/award_winners/valiant_2612174.cfm"
+  },
+  {
+    "id": "judea-pearl",
+    "name": "Judea Pearl",
+    "chinese": "朱迪亚·珀尔",
+    "field": "ai",
+    "tag": "因果推理",
+    "source": "https://amturing.acm.org/award_winners/pearl_2658896.cfm"
+  },
+  {
+    "id": "shafi-goldwasser",
+    "name": "Shafi Goldwasser",
+    "chinese": "莎菲·戈德瓦瑟",
+    "field": "security",
+    "tag": "可证明安全",
+    "source": "https://amturing.acm.org/award_winners/goldwasser_8627889.cfm"
+  },
+  {
+    "id": "silvio-micali",
+    "name": "Silvio Micali",
+    "chinese": "西尔维奥·米卡利",
+    "field": "security",
+    "tag": "密码与证明",
+    "source": "https://amturing.acm.org/award_winners/micali_9954407.cfm"
+  },
+  {
+    "id": "leslie-lamport",
+    "name": "Leslie Lamport",
+    "chinese": "莱斯利·兰波特",
+    "field": "systems",
+    "tag": "分布式系统",
+    "source": "https://amturing.acm.org/award_winners/lamport_1205376.cfm"
+  },
+  {
+    "id": "michael-stonebraker",
+    "name": "Michael Stonebraker",
+    "chinese": "迈克尔·斯通布雷克",
+    "field": "data",
+    "tag": "数据库系统",
+    "source": "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm"
+  },
+  {
+    "id": "whitfield-diffie",
+    "name": "Whitfield Diffie",
+    "chinese": "惠特菲尔德·迪菲",
+    "field": "security",
+    "tag": "公钥密码",
+    "source": "https://amturing.acm.org/award_winners/diffie_8371646.cfm"
+  },
+  {
+    "id": "martin-hellman",
+    "name": "Martin E. Hellman",
+    "chinese": "马丁·赫尔曼",
+    "field": "security",
+    "tag": "密钥交换",
+    "source": "https://amturing.acm.org/award_winners/hellman_4055781.cfm"
+  },
+  {
+    "id": "tim-berners-lee",
+    "name": "Tim Berners-Lee",
+    "chinese": "蒂姆·伯纳斯-李",
+    "field": "networks",
+    "tag": "万维网",
+    "source": "https://amturing.acm.org/award_winners/berners-lee_8087960.cfm"
+  },
+  {
+    "id": "john-hennessy",
+    "name": "John L. Hennessy",
+    "chinese": "约翰·亨尼西",
+    "field": "systems",
+    "tag": "计算机体系结构",
+    "source": "https://amturing.acm.org/award_winners/hennessy_1426931.cfm"
+  },
+  {
+    "id": "david-patterson",
+    "name": "David A. Patterson",
+    "chinese": "戴维·帕特森",
+    "field": "systems",
+    "tag": "计算机体系结构",
+    "source": "https://amturing.acm.org/award_winners/patterson_2316693.cfm"
+  },
+  {
+    "id": "yoshua-bengio",
+    "name": "Yoshua Bengio",
+    "chinese": "约书亚·本吉奥",
+    "field": "ai",
+    "tag": "深度学习",
+    "source": "https://amturing.acm.org/award_winners/bengio_3406375.cfm"
+  },
+  {
+    "id": "geoffrey-hinton",
+    "name": "Geoffrey E. Hinton",
+    "chinese": "杰弗里·辛顿",
+    "field": "ai",
+    "tag": "神经网络",
+    "source": "https://amturing.acm.org/award_winners/hinton_4791679.cfm"
+  },
+  {
+    "id": "yann-lecun",
+    "name": "Yann LeCun",
+    "chinese": "扬·勒昆",
+    "field": "ai",
+    "tag": "深度学习",
+    "source": "https://amturing.acm.org/award_winners/lecun_6017366.cfm"
+  },
+  {
+    "id": "edwin-catmull",
+    "name": "Edwin E. Catmull",
+    "chinese": "埃德温·卡特穆尔",
+    "field": "graphics",
+    "tag": "三维图形",
+    "source": "https://amturing.acm.org/award_winners/catmull_1244219.cfm"
+  },
+  {
+    "id": "pat-hanrahan",
+    "name": "Patrick M. Hanrahan",
+    "chinese": "帕特里克·汉拉汉",
+    "field": "graphics",
+    "tag": "图形渲染",
+    "source": "https://amturing.acm.org/award_winners/hanrahan_4652251.cfm"
+  },
+  {
+    "id": "alfred-aho",
+    "name": "Alfred V. Aho",
+    "chinese": "阿尔弗雷德·阿霍",
+    "field": "languages",
+    "tag": "编译原理",
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2021/march/turing-award-2020.pdf"
+  },
+  {
+    "id": "jeffrey-ullman",
+    "name": "Jeffrey D. Ullman",
+    "chinese": "杰弗里·厄尔曼",
+    "field": "languages",
+    "tag": "编译与算法",
+    "source": "https://amturing.acm.org/award_winners/ullman_1054360.cfm"
+  },
+  {
+    "id": "jack-dongarra",
+    "name": "Jack J. Dongarra",
+    "chinese": "杰克·唐加拉",
+    "field": "theory",
+    "tag": "高性能数值计算",
+    "source": "https://amturing.acm.org/award_winners/dongarra_3406337.cfm"
+  },
+  {
+    "id": "robert-metcalfe",
+    "name": "Robert M. Metcalfe",
+    "chinese": "罗伯特·梅特卡夫",
+    "field": "networks",
+    "tag": "以太网",
+    "source": "https://amturing.acm.org/award_winners/metcalfe_3968158.cfm"
+  },
+  {
+    "id": "avi-wigderson",
+    "name": "Avi Wigderson",
+    "chinese": "阿维·威格德森",
+    "field": "theory",
+    "tag": "计算与随机性",
+    "source": "https://awards.acm.org/award-recipients/wigderson_3844537"
+  },
+  {
+    "id": "andrew-barto",
+    "name": "Andrew G. Barto",
+    "chinese": "安德鲁·巴托",
+    "field": "ai",
+    "tag": "强化学习",
+    "source": "https://awards.acm.org/award_winners/barto_9471663"
+  },
+  {
+    "id": "richard-sutton",
+    "name": "Richard S. Sutton",
+    "chinese": "理查德·萨顿",
+    "field": "ai",
+    "tag": "时间差分学习",
+    "source": "https://awards.acm.org/award_winners/barto_9471663"
+  },
+  {
+    "id": "charles-bennett",
+    "name": "Charles H. Bennett",
+    "chinese": "查尔斯·贝内特",
+    "field": "quantum",
+    "tag": "量子信息",
+    "source": "https://www.prnewswire.com/news-releases/acm-am-turing-award-honors-charles-h-bennett-and-gilles-brassard-for-foundational-contributions-to-quantum-information-science-302716290.html"
+  },
+  {
+    "id": "gilles-brassard",
+    "name": "Gilles Brassard",
+    "chinese": "吉勒·布拉萨尔",
+    "field": "quantum",
+    "tag": "量子密码",
+    "source": "https://www.prnewswire.com/news-releases/acm-am-turing-award-honors-charles-h-bennett-and-gilles-brassard-for-foundational-contributions-to-quantum-information-science-302716290.html"
+  }
+]

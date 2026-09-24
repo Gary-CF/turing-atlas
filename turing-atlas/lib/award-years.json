@@ -1,0 +1,504 @@
+[
+  {
+    "year": 1966,
+    "people": [
+      "alan-perlis"
+    ],
+    "citation": "推动高级程序设计与编译器构造的发展。",
+    "source": "https://amturing.acm.org/award_winners/perlis_0132439.cfm"
+  },
+  {
+    "year": 1967,
+    "people": [
+      "maurice-wilkes"
+    ],
+    "citation": "设计并建造 EDSAC，推动早期存储程序计算机与程序库实践。",
+    "source": "https://amturing.acm.org/award_winners/wilkes_1001395.cfm"
+  },
+  {
+    "year": 1968,
+    "people": [
+      "richard-hamming"
+    ],
+    "citation": "推进数值计算、自动编码和检错纠错技术。",
+    "source": "https://amturing.acm.org/award_winners/hamming_1000652.cfm"
+  },
+  {
+    "year": 1969,
+    "people": [
+      "marvin-minsky"
+    ],
+    "citation": "在人工智能领域的创建与发展中发挥关键作用。",
+    "source": "https://news.mit.edu/2016/marvin-minsky-obituary-0125"
+  },
+  {
+    "year": 1970,
+    "people": [
+      "james-wilkinson"
+    ],
+    "citation": "推进数值线性代数计算，建立理解计算误差的重要方法。",
+    "source": "https://amturing.acm.org/award_winners/wilkinson_0671216.cfm"
+  },
+  {
+    "year": 1971,
+    "people": [
+      "john-mccarthy"
+    ],
+    "citation": "为人工智能研究作出奠基性贡献。",
+    "source": "https://amturing.acm.org/award_winners/mccarthy_1118322.cfm"
+  },
+  {
+    "year": 1972,
+    "people": [
+      "edsger-dijkstra"
+    ],
+    "citation": "推动程序设计方法的发展，强调通过严谨构造获得正确程序。",
+    "source": "https://amturing.acm.org/award_winners/dijkstra_1053701.cfm"
+  },
+  {
+    "year": 1973,
+    "people": [
+      "charles-bachman"
+    ],
+    "citation": "为数据库技术的发展作出突出贡献。",
+    "source": "https://amturing.acm.org/award_winners/bachman_9385610.cfm"
+  },
+  {
+    "year": 1974,
+    "people": [
+      "donald-knuth"
+    ],
+    "citation": "推进算法分析与语言设计，以《计算机程序设计艺术》系统整理学科知识。",
+    "source": "https://amturing.acm.org/award_winners/knuth_1013846.cfm"
+  },
+  {
+    "year": 1975,
+    "people": [
+      "allen-newell",
+      "herbert-simon"
+    ],
+    "citation": "共同推进人工智能、人类认知研究与表处理技术。",
+    "source": "https://amturing.acm.org/award_winners/newell_3167755.cfm"
+  },
+  {
+    "year": 1976,
+    "people": [
+      "michael-rabin",
+      "dana-scott"
+    ],
+    "citation": "通过有限自动机研究，引入并发展非确定性计算的重要思想。",
+    "source": "https://amturing.acm.org/award_winners/rabin_9681074.cfm"
+  },
+  {
+    "year": 1977,
+    "people": [
+      "john-backus"
+    ],
+    "citation": "推动 FORTRAN 等高级编程系统及语言形式化描述方法的发展。",
+    "source": "https://amturing.acm.org/award_winners/backus_0703524.cfm"
+  },
+  {
+    "year": 1978,
+    "people": [
+      "robert-floyd"
+    ],
+    "citation": "推进程序语义、验证与算法分析，改进可靠软件的构造方法。",
+    "source": "https://amturing.acm.org/award_winners/floyd_3720707.cfm"
+  },
+  {
+    "year": 1979,
+    "people": [
+      "kenneth-iverson"
+    ],
+    "citation": "以 APL 连接数学记法与程序表达，推动交互式编程与教育。",
+    "source": "https://amturing.acm.org/award_winners/iverson_9147499.cfm"
+  },
+  {
+    "year": 1980,
+    "people": [
+      "tony-hoare"
+    ],
+    "citation": "为编程语言的定义和设计奠定重要基础。",
+    "source": "https://amturing.acm.org/award_winners/hoare_4622167.cfm"
+  },
+  {
+    "year": 1981,
+    "people": [
+      "edgar-codd"
+    ],
+    "citation": "为数据库管理系统的理论与实践作出基础性贡献。",
+    "source": "https://amturing.acm.org/award_winners/codd_1000892.cfm"
+  },
+  {
+    "year": 1982,
+    "people": [
+      "stephen-cook"
+    ],
+    "citation": "建立 NP 完全性理论的重要基础，深化对计算复杂性的理解。",
+    "source": "https://amturing.acm.org/award_winners/cook_n991950.cfm"
+  },
+  {
+    "year": 1983,
+    "people": [
+      "dennis-ritchie",
+      "ken-thompson"
+    ],
+    "citation": "共同推进操作系统理论，尤其是 Unix 的实现。",
+    "source": "https://amturing.acm.org/award_winners/ritchie_1506389.cfm"
+  },
+  {
+    "year": 1984,
+    "people": [
+      "niklaus-wirth"
+    ],
+    "citation": "设计 Pascal、Modula 等语言，推动编程语言与计算机教育的发展。",
+    "source": "https://amturing.acm.org/award_winners/wirth_1025774.cfm"
+  },
+  {
+    "year": 1985,
+    "people": [
+      "richard-karp"
+    ],
+    "citation": "推进组合优化与算法理论，建立证明问题 NP 完全性的通用方法。",
+    "source": "https://amturing.acm.org/award_winners/karp_3256708.cfm"
+  },
+  {
+    "year": 1986,
+    "people": [
+      "john-hopcroft",
+      "robert-tarjan"
+    ],
+    "citation": "为算法和数据结构的设计与分析作出基础性贡献。",
+    "source": "https://amturing.acm.org/award_winners/hopcroft_1053917.cfm"
+  },
+  {
+    "year": 1987,
+    "people": [
+      "john-cocke"
+    ],
+    "citation": "推进编译器优化、大型系统体系结构与精简指令集计算机的发展。",
+    "source": "https://amturing.acm.org/award_winners/cocke_2083115.cfm"
+  },
+  {
+    "year": 1988,
+    "people": [
+      "ivan-sutherland"
+    ],
+    "citation": "以 Sketchpad 等工作开创交互式计算机图形学。",
+    "source": "https://amturing.acm.org/award_winners/sutherland_3467412.cfm"
+  },
+  {
+    "year": 1989,
+    "people": [
+      "william-kahan"
+    ],
+    "citation": "深化数值分析与浮点运算研究，提高计算结果的可靠性。",
+    "source": "https://amturing.acm.org/award_winners/kahan_1023746.cfm"
+  },
+  {
+    "year": 1990,
+    "people": [
+      "fernando-corbato"
+    ],
+    "citation": "领导 CTSS 与 Multics 的开发，推进大型分时和资源共享系统。",
+    "source": "https://amturing.acm.org/award_winners/corbato_1009471.cfm"
+  },
+  {
+    "year": 1991,
+    "people": [
+      "robin-milner"
+    ],
+    "citation": "在自动定理证明、ML 语言及并发计算理论方面作出重要贡献。",
+    "source": "https://amturing.acm.org/award_winners/milner_1569367.cfm"
+  },
+  {
+    "year": 1992,
+    "people": [
+      "butler-lampson"
+    ],
+    "citation": "推进分布式与个人计算环境，以及实现它们的系统技术。",
+    "source": "https://amturing.acm.org/award_winners/lampson_1142421.cfm"
+  },
+  {
+    "year": 1993,
+    "people": [
+      "juris-hartmanis",
+      "richard-stearns"
+    ],
+    "citation": "共同奠定计算复杂性理论的基础。",
+    "source": "https://amturing.acm.org/award_winners/hartmanis_1059260.cfm"
+  },
+  {
+    "year": 1994,
+    "people": [
+      "edward-feigenbaum",
+      "raj-reddy"
+    ],
+    "citation": "设计并构建大型人工智能系统，展示人工智能的实际应用潜力。",
+    "source": "https://amturing.acm.org/award_winners/feigenbaum_4167235.cfm"
+  },
+  {
+    "year": 1995,
+    "people": [
+      "manuel-blum"
+    ],
+    "citation": "推进计算复杂性理论，并将其应用于密码学和程序检验。",
+    "source": "https://amturing.acm.org/award_winners/blum_4659082.cfm"
+  },
+  {
+    "year": 1996,
+    "people": [
+      "amir-pnueli"
+    ],
+    "citation": "将时序逻辑引入计算机科学，推进程序与系统验证。",
+    "source": "https://amturing.acm.org/award_winners/pnueli_4725172.cfm"
+  },
+  {
+    "year": 1997,
+    "people": [
+      "douglas-engelbart"
+    ],
+    "citation": "提出交互式计算的远景，并发明支持这一远景的关键技术。",
+    "source": "https://amturing.acm.org/award_winners/engelbart_5078811.cfm"
+  },
+  {
+    "year": 1998,
+    "people": [
+      "jim-gray"
+    ],
+    "citation": "推进数据库与事务处理研究，并领导相关系统的实现。",
+    "source": "https://amturing.acm.org/award_winners/gray_3649936.cfm"
+  },
+  {
+    "year": 1999,
+    "people": [
+      "frederick-brooks"
+    ],
+    "citation": "在计算机体系结构、操作系统和软件工程方面作出重要贡献。",
+    "source": "https://amturing.acm.org/award_winners/brooks_1002187.cfm"
+  },
+  {
+    "year": 2000,
+    "people": [
+      "andrew-yao"
+    ],
+    "citation": "推进伪随机性、密码学与通信复杂性的理论基础。",
+    "source": "https://amturing.acm.org/award_winners/yao_1611524.cfm"
+  },
+  {
+    "year": 2001,
+    "people": [
+      "ole-johan-dahl",
+      "kristen-nygaard"
+    ],
+    "citation": "通过 Simula 系列语言奠定面向对象编程的重要基础。",
+    "source": "https://amturing.acm.org/award_winners/dahl_6917600.cfm"
+  },
+  {
+    "year": 2002,
+    "people": [
+      "leonard-adleman",
+      "ronald-rivest",
+      "adi-shamir"
+    ],
+    "citation": "通过 RSA 等工作，使公钥密码技术能够用于实际系统。",
+    "source": "https://amturing.acm.org/award_winners/adleman_7308544.cfm"
+  },
+  {
+    "year": 2003,
+    "people": [
+      "alan-kay"
+    ],
+    "citation": "开创面向对象编程的重要思想，领导 Smalltalk 研究并推进个人计算。",
+    "source": "https://amturing.acm.org/award_winners/kay_3972189.cfm"
+  },
+  {
+    "year": 2004,
+    "people": [
+      "vinton-cerf",
+      "robert-kahn"
+    ],
+    "citation": "设计并实现 TCP/IP 等核心通信协议，推动互联网的发展。",
+    "source": "https://amturing.acm.org/award_winners/cerf_1083211.cfm"
+  },
+  {
+    "year": 2005,
+    "people": [
+      "peter-naur"
+    ],
+    "citation": "推进编程语言设计、ALGOL 60 的定义与编译技术。",
+    "source": "https://amturing.acm.org/award_winners/naur_1024454.cfm"
+  },
+  {
+    "year": 2006,
+    "people": [
+      "frances-allen"
+    ],
+    "citation": "推进编译器优化与自动并行化的理论和实践。",
+    "source": "https://amturing.acm.org/award_winners/allen_1012327.cfm"
+  },
+  {
+    "year": 2007,
+    "people": [
+      "edmund-clarke",
+      "allen-emerson",
+      "joseph-sifakis"
+    ],
+    "citation": "将模型检验发展成广泛用于软硬件工业的验证技术。",
+    "source": "https://amturing.acm.org/award_winners/clarke_1167964.cfm"
+  },
+  {
+    "year": 2008,
+    "people": [
+      "barbara-liskov"
+    ],
+    "citation": "推进语言与系统设计，尤其是数据抽象、容错和分布式计算。",
+    "source": "https://amturing.acm.org/award_winners/liskov_1108679.cfm"
+  },
+  {
+    "year": 2009,
+    "people": [
+      "charles-thacker"
+    ],
+    "citation": "设计并实现 Alto 个人计算机，并推进网络与工作站技术。",
+    "source": "https://amturing.acm.org/award_winners/thacker_1336106.cfm"
+  },
+  {
+    "year": 2010,
+    "people": [
+      "leslie-valiant"
+    ],
+    "citation": "推进计算学习、计数复杂性、代数计算及并行分布式计算理论。",
+    "source": "https://amturing.acm.org/award_winners/valiant_2612174.cfm"
+  },
+  {
+    "year": 2011,
+    "people": [
+      "judea-pearl"
+    ],
+    "citation": "发展概率与因果推理方法，为人工智能奠定重要基础。",
+    "source": "https://amturing.acm.org/award_winners/pearl_2658896.cfm"
+  },
+  {
+    "year": 2012,
+    "people": [
+      "shafi-goldwasser",
+      "silvio-micali"
+    ],
+    "citation": "为现代密码学建立复杂性理论基础，并推进高效的数学证明验证方法。",
+    "source": "https://amturing.acm.org/award_winners/goldwasser_8627889.cfm"
+  },
+  {
+    "year": 2013,
+    "people": [
+      "leslie-lamport"
+    ],
+    "citation": "通过逻辑时钟、因果关系等概念，推进分布式与并发系统的理论和实践。",
+    "source": "https://amturing.acm.org/award_winners/lamport_1205376.cfm"
+  },
+  {
+    "year": 2014,
+    "people": [
+      "michael-stonebraker"
+    ],
+    "citation": "为现代数据库系统的概念与实现作出基础性贡献。",
+    "source": "https://amturing.acm.org/award_winners/stonebraker_1172121.cfm"
+  },
+  {
+    "year": 2015,
+    "people": [
+      "whitfield-diffie",
+      "martin-hellman"
+    ],
+    "citation": "开创公钥密码、数字签名与实用密钥交换方法。",
+    "source": "https://amturing.acm.org/award_winners/diffie_8371646.cfm"
+  },
+  {
+    "year": 2016,
+    "people": [
+      "tim-berners-lee"
+    ],
+    "citation": "发明万维网及早期浏览器，建立使 Web 扩展的关键协议与算法。",
+    "source": "https://amturing.acm.org/award_winners/berners-lee_8087960.cfm"
+  },
+  {
+    "year": 2017,
+    "people": [
+      "john-hennessy",
+      "david-patterson"
+    ],
+    "citation": "建立系统、定量的计算机体系结构设计与评估方法。",
+    "source": "https://amturing.acm.org/award_winners/hennessy_1426931.cfm"
+  },
+  {
+    "year": 2018,
+    "people": [
+      "yoshua-bengio",
+      "geoffrey-hinton",
+      "yann-lecun"
+    ],
+    "citation": "在概念与工程上推进深度神经网络，使其成为现代计算的重要组成部分。",
+    "source": "https://amturing.acm.org/award_winners/bengio_3406375.cfm"
+  },
+  {
+    "year": 2019,
+    "people": [
+      "edwin-catmull",
+      "pat-hanrahan"
+    ],
+    "citation": "为三维计算机图形学奠定基础，推动电影等领域的计算机生成图像技术。",
+    "source": "https://amturing.acm.org/award_winners/catmull_1244219.cfm"
+  },
+  {
+    "year": 2020,
+    "people": [
+      "alfred-aho",
+      "jeffrey-ullman"
+    ],
+    "citation": "推进编程语言实现所需的算法与理论，并以教材传播这些知识。",
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2021/march/turing-award-2020.pdf"
+  },
+  {
+    "year": 2021,
+    "people": [
+      "jack-dongarra"
+    ],
+    "citation": "发展数值算法与软件库，使高性能计算软件持续适应硬件进步。",
+    "source": "https://amturing.acm.org/award_winners/dongarra_3406337.cfm"
+  },
+  {
+    "year": 2022,
+    "people": [
+      "robert-metcalfe"
+    ],
+    "citation": "发明以太网，并推动其标准化和商业应用。",
+    "source": "https://amturing.acm.org/award_winners/metcalfe_3968158.cfm"
+  },
+  {
+    "year": 2023,
+    "people": [
+      "avi-wigderson"
+    ],
+    "citation": "深化对计算随机性与复杂性的理解，长期推动理论计算机科学发展。",
+    "source": "https://awards.acm.org/award-recipients/wigderson_3844537"
+  },
+  {
+    "year": 2024,
+    "people": [
+      "andrew-barto",
+      "richard-sutton"
+    ],
+    "citation": "共同奠定强化学习的概念与算法基础。",
+    "source": "https://awards.acm.org/award_winners/barto_9471663"
+  },
+  {
+    "year": 2025,
+    "people": [
+      "charles-bennett",
+      "gilles-brassard"
+    ],
+    "citation": "开创并塑造计算机科学与信息通信技术中的量子信息研究。",
+    "source": "https://www.prnewswire.com/news-releases/acm-am-turing-award-honors-charles-h-bennett-and-gilles-brassard-for-foundational-contributions-to-quantum-information-science-302716290.html",
+    "announcedAt": "2026-03-18"
+  }
+]

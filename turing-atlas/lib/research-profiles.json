@@ -1,0 +1,1068 @@
+{
+  "maurice-wilkes": {
+    "source": "https://www.cam.ac.uk/news/professor-sir-maurice-wilkes-1913-2010",
+    "home": "https://www.cl.cam.ac.uk/archive/mvw1/",
+    "bio": [
+      "Wilkes 在剑桥把存储程序计算机从构想变成科研工具。他主持建造的 EDSAC 于 1949 年运行，并与同事整理程序库和编程方法，使科学研究者能够真正使用计算机。",
+      "他后来研究微程序控制、存储系统与计算机网络。贯穿这些工作的，是把硬件结构、软件工具和使用者需求一起考虑的系统观。"
+    ],
+    "materials": [
+      "wilkes-lecture",
+      "wilkes-turing"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "marvin-minsky": {
+    "source": "https://news.mit.edu/2016/marvin-minsky-obituary-0125",
+    "home": "https://web.mit.edu/dxh/www/marvin/web.media.mit.edu/~minsky/index.html",
+    "bio": [
+      "Minsky 是 MIT 人工智能研究的早期开拓者，与 John McCarthy 共同建立人工智能研究项目。他的探索涉及神经网络、视觉、机器人，以及用符号表达和处理知识的方法。",
+      "他在《心智社会》中主张从许多较简单机制的相互作用理解智能。阅读其论文时，可以观察早期 AI 如何把学习、搜索、规划与常识组织成研究议程，也应把这些理论与后来的实验证据区分开。"
+    ],
+    "materials": [
+      "minsky-steps",
+      "minsky-lecture",
+      "minsky-frames"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "个人主页存档"
+  },
+  "james-wilkinson": {
+    "source": "https://www.npl.co.uk/about-us/history/famous/jim-wilkinson",
+    "bio": [
+      "Wilkinson 在英国国家物理实验室参与 Alan Turing 的计算机研究，并在 Turing 离开后推进 Pilot ACE 项目。亲自面对机器计算，使他尤其关注有限精度造成的误差。",
+      "他的数值线性代数研究系统分析舍入误差与算法稳定性。其核心价值在于：得到一个数字并不等于得到可信答案，必须理解输入、算法和机器算术如何共同影响结果。"
+    ],
+    "materials": [
+      "wilkinson-lecture",
+      "wilkinson-rounding",
+      "wilkinson-inversion"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "john-mccarthy": {
+    "source": "https://www-formal.stanford.edu/jmc/personal.html",
+    "home": "https://www-formal.stanford.edu/jmc/",
+    "bio": [
+      "McCarthy 参与组织 1956 年达特茅斯人工智能研究计划，后来在 MIT 和斯坦福推进 AI、Lisp 与分时计算。他希望计算机能够表达知识，并以推理解决超出单一任务的问题。",
+      "Lisp 将符号计算与程序表达紧密结合；他的另一条研究线索是常识推理与非单调逻辑。1987 年发表的图灵奖演讲整理稿重新面对早年提出的通用性问题，不能误记为 1971 年发表。"
+    ],
+    "materials": [
+      "mccarthy-lisp",
+      "mccarthy-lecture",
+      "mccarthy-lisp-history"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "charles-bachman": {
+    "source": "https://computerhistory.org/profile/charles-w-bachman/",
+    "bio": [
+      "Bachman 从机械工程转入企业数据处理，在通用电气参与开发 Integrated Data Store。面对不断增大的业务数据，他把数据关系和存取路径作为数据库系统设计的核心问题。",
+      "他的网络数据库工作及数据结构图影响了早期数据库实践。《The Programmer as Navigator》把程序员描述为穿行于数据空间的导航者，适合与 Codd 的关系模型对读，理解不同的数据访问观念。"
+    ],
+    "materials": [
+      "bachman-lecture",
+      "bachman-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "allen-newell": {
+    "source": "https://digitalcollections.library.cmu.edu/cmu-collection/allen-newell",
+    "bio": [
+      "Newell 从物理学与 RAND 的研究环境进入计算机科学，与 Herbert Simon、J. C. Shaw 合作开发逻辑理论机和通用问题求解器。他在卡内基梅隆把程序作为研究人类问题求解的实验工具。",
+      "从物理符号系统假说到知识层次和 Soar，他不断寻找连接具体程序与整体认知的解释。符号系统假说是具有历史影响的研究立场，阅读时应与神经计算和后续认知研究比较。"
+    ],
+    "materials": [
+      "symbols-search",
+      "newell-knowledge",
+      "newell-soar"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "herbert-simon": {
+    "source": "https://www.cmu.edu/50/founder-stories/story-simon.html",
+    "bio": [
+      "Simon 于 1949 年来到卡内基理工学院，长期跨越组织决策、经济学、心理学与计算机科学。他研究人在信息、时间与计算能力有限的条件下如何作出决策。",
+      "他与 Newell 等人以程序模拟问题求解过程，并发展有限理性与人工系统的研究视角。其影响不限于某个 AI 算法，也在于把认知、设计与决策看作可以共同研究的问题。"
+    ],
+    "materials": [
+      "symbols-search",
+      "simon-problems",
+      "simon-artificial"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "michael-rabin": {
+    "source": "https://seas.harvard.edu/news/celebration-computer-scientist-michael-rabin-mark-amazing-achievements",
+    "home": "https://seas.harvard.edu/person/michael-rabin",
+    "bio": [
+      "Rabin 的研究连接数学逻辑、自动机、算法与密码学。他与 Dana Scott 对有限自动机及其判定问题的研究，为使用数学模型分析计算过程建立了重要基础。",
+      "他后来推动随机化算法研究，包括概率素性测试。这里的关键是用严格控制的错误概率换取效率，而不是把随机性当作不受约束的猜测。"
+    ],
+    "materials": [
+      "rabin-scott-automata",
+      "rabin-lecture",
+      "rabin-primality"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "dana-scott": {
+    "source": "https://www.cmu.edu/math/people/faculty/scott.html",
+    "home": "https://www.cs.cmu.edu/~scott/",
+    "bio": [
+      "Scott 在数理逻辑与计算机科学之间建立了深刻联系。早期与 Michael Rabin 合作研究有限自动机，随后将数学结构用于说明程序的意义。",
+      "他的域理论为递归、部分信息与计算近似提供了表达工具，并成为指称语义的重要基础。阅读这些工作，可以理解程序语言研究为何不仅关心语法和执行步骤，也关心可组合的数学含义。"
+    ],
+    "materials": [
+      "rabin-scott-automata",
+      "scott-lattices",
+      "scott-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "john-backus": {
+    "source": "https://www.ibm.com/history/john-backus",
+    "bio": [
+      "Backus 于 1950 年加入 IBM，领导团队开发 FORTRAN，让科学计算程序能以更接近数学的方式书写。他也参与高级语言语法表示的发展，名字保留在 BNF 这一术语中。",
+      "在图灵奖演讲中，他反思以状态和赋值为中心的编程方式，倡导通过函数组合与代数规律组织程序。这份对既有成功的自我质疑，是理解语言设计取舍的重要材料。"
+    ],
+    "materials": [
+      "backus-fortran",
+      "backus-lecture",
+      "backus-history"
+    ],
+    "reviewedAt": "2026-09-24",
+    "quote": {
+      "text": "Much of my work has come from being lazy.",
+      "translation": "我的许多工作都源于懒惰。",
+      "url": "https://www.ibm.com/history/john-backus",
+      "context": "IBM 人物历史页面所引本人语句"
+    }
+  },
+  "robert-floyd": {
+    "source": "https://legacy.cs.stanford.edu/node/1258",
+    "bio": [
+      "Floyd 在工业界、卡内基梅隆和斯坦福从事计算研究，以算法、程序分析和程序正确性工作产生深远影响。他于 1968 年加入斯坦福，后来担任计算机科学系主任。",
+      "他把程序执行与逻辑断言联系起来，为证明程序正确性建立方法，也研究图算法与程序设计范式。从最短路径到程序证明，这些工作共同追问如何使计算过程既有效又可理解。"
+    ],
+    "materials": [
+      "floyd-path",
+      "floyd-meanings",
+      "floyd-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "kenneth-iverson": {
+    "source": "https://www.jsoftware.com/papers/remembering.htm",
+    "home": "https://www.jsoftware.com/papers/",
+    "bio": [
+      "Iverson 把数学记号看作思考计算的工具。他在哈佛与 IBM 的工作逐渐形成 APL，以数组运算和紧凑表达探索程序语言能够怎样帮助人理解问题。",
+      "他后来参与发展 J，继续研究可执行记号与组合方式。阅读他的材料，重点不只是符号是否简短，而是记号能否揭示规律、支持推导并减少不必要的表达负担。"
+    ],
+    "materials": [
+      "iverson-system360",
+      "iverson-lecture",
+      "iverson-autobio"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "研究与历史档案"
+  },
+  "tony-hoare": {
+    "source": "https://www.cs.ox.ac.uk/news/2516-full.html",
+    "home": "https://www.cs.ox.ac.uk/people/tony.hoare/index1.html",
+    "bio": [
+      "Hoare 从机器翻译中的排序问题出发提出快速排序，随后研究程序语言及其逻辑基础。1977 年他来到牛津，推动程序设计与形式化方法研究；牛津于 2026 年发布了他的逝世消息。",
+      "Hoare 逻辑用前置条件、程序和后置条件描述正确性，CSP 则研究并发进程之间的通信。他的演讲保留了对语言复杂性和工程失误的直接反思，适合与技术论文一起阅读。"
+    ],
+    "materials": [
+      "hoare-quicksort",
+      "hoare-axioms",
+      "hoare-lecture",
+      "hoare-csp"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "edgar-codd": {
+    "source": "https://www.ibm.com/history/relational-database",
+    "bio": [
+      "Codd 在 IBM 圣何塞研究实验室提出关系数据模型。他希望使用者能依据数据的含义进行查询，而不必先掌握数据在存储设备中的具体布局和访问路径。",
+      "这一思想推动了数据独立性与声明式查询的发展。后来的 SQL 和关系数据库由许多研究者与工程团队共同实现；阅读原始论文，能区分模型本身与后续产品中的具体机制。"
+    ],
+    "materials": [
+      "codd-relational",
+      "codd-lecture",
+      "codd-meaning"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "stephen-cook": {
+    "source": "https://www.cs.toronto.edu/~sacook/",
+    "home": "https://www.cs.toronto.edu/~sacook/",
+    "bio": [
+      "Cook 长期在多伦多大学研究计算复杂性与逻辑。1971 年的工作把命题可满足性与一大类可在多项式时间验证的问题联系起来，是 NP 完全性理论的关键起点。",
+      "他也研究证明系统的效率与计算的逻辑基础。NP 完全并不等于已经证明不存在高效算法；其意义是通过归约把许多问题的难度联系起来，明确 P 与 NP 问题为何重要。"
+    ],
+    "materials": [
+      "cook-completeness",
+      "cook-proof",
+      "cook-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "niklaus-wirth": {
+    "source": "https://ethz.ch/en/news-and-events/eth-news/news/2024/01/computer-pioneer-niklaus-wirth-has-died.html",
+    "home": "https://people.inf.ethz.ch/wirth/",
+    "bio": [
+      "Wirth 在苏黎世联邦理工长期研究和教学，设计了 Pascal，并继续推进 Modula 与 Oberon。他把语言、编译器、操作系统和计算机结构视为可以相互配合的设计整体。",
+      "逐步求精与精简软件是其工作的重要线索：先建立清楚的结构，再逐层确定实现。他于 2024 年去世，留下的论文与系统资料仍适合用来思考软件为何会变得复杂。"
+    ],
+    "materials": [
+      "wirth-refinement",
+      "wirth-lecture",
+      "wirth-lean"
+    ],
+    "reviewedAt": "2026-09-24",
+    "response": {
+      "title": "演讲中的致谢",
+      "url": "https://people.inf.ethz.ch/wirth/Articles/TuringAward.pdf",
+      "note": "演讲开篇回应了 ACM 的表彰并致谢，随后进入语言与计算机设计的讨论。这段致谢与学术演讲保存在同一份原文中。"
+    }
+  },
+  "richard-karp": {
+    "source": "https://www.simonsfoundation.org/2013/12/13/richard-karp/",
+    "home": "https://math.berkeley.edu/people/faculty/richard-karp",
+    "bio": [
+      "Karp 从数学进入算法研究，长期在伯克利工作。他通过一组组合问题之间的归约，将 NP 完全性发展成识别计算困难的有力方法。",
+      "他同时研究有效算法、随机化与平均情形分析，并把算法方法用于生物学。理解他的贡献，需要同时看到“哪些问题难”与“面对困难仍能怎样计算”这两个方向。"
+    ],
+    "materials": [
+      "karp-reductions",
+      "karp-lecture",
+      "karp-randomized"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "john-hopcroft": {
+    "source": "https://www.cs.cornell.edu/annual_report/1997/hopcroft.htm",
+    "home": "https://www.cs.cornell.edu/jeh/",
+    "bio": [
+      "Hopcroft 在康奈尔研究算法与计算机科学教育。他与 Robert Tarjan 对图算法和数据结构的研究，展示了严密分析如何带来实质性的效率提升。",
+      "他也通过教材与教学建立自动机、语言和算法的知识体系。阅读其图灵奖演讲，可以把具体算法放回计算机科学逐渐成为独立学科的背景中。"
+    ],
+    "materials": [
+      "hopcroft-tarjan-algorithms",
+      "hopcroft-tarjan-planarity",
+      "hopcroft-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "robert-tarjan": {
+    "source": "https://www.cs.princeton.edu/people/profile/ret",
+    "home": "https://www.cs.princeton.edu/~ret/",
+    "bio": [
+      "Tarjan 于 1972 年在斯坦福完成博士研究，1985 年加入普林斯顿。他的工作覆盖图算法、数据结构与算法分析，也长期与工业研究机构合作。",
+      "他善于寻找问题的结构，并让数据的组织方式与算法相互配合。与 Hopcroft 合作的平面性测试等成果，说明理论分析能够指导真正高效的实现。"
+    ],
+    "materials": [
+      "hopcroft-tarjan-algorithms",
+      "hopcroft-tarjan-planarity",
+      "tarjan-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "john-cocke": {
+    "source": "https://www.ibm.com/history/john-cocke",
+    "bio": [
+      "Cocke 在取得数学博士学位后加入 IBM，研究贯穿优化编译器与计算机体系结构。他在 IBM 801 等项目中推动 RISC 思路，关注软件和硬件怎样一起提高执行效率。",
+      "他的编译优化工作与机器设计并非彼此孤立。阅读这些材料，可以观察程序分析、指令选择和处理器组织如何围绕同一个性能目标形成取舍。"
+    ],
+    "materials": [
+      "cocke-strength",
+      "cocke-lecture",
+      "allen-cocke-dataflow"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "ivan-sutherland": {
+    "source": "https://computerhistory.org/profile/ivan-sutherland/",
+    "bio": [
+      "Sutherland 在 MIT 的博士研究中创造 Sketchpad，让使用者借助光笔直接操作屏幕上的图形。他后来在 ARPA、哈佛、犹他大学等机构推动交互、图形学与计算机研究。",
+      "从头戴式显示系统到异步电路，他反复探索计算机的物理实现与人的使用方式之间的关系。Sketchpad 尤其值得看演示与原文，体会约束、实例和直接交互如何组合成一个系统。"
+    ],
+    "materials": [
+      "sutherland-sketchpad",
+      "sutherland-display",
+      "sutherland-lecture",
+      "sutherland-oral"
+    ],
+    "reviewedAt": "2026-09-24",
+    "quote": {
+      "text": "If you want to know about the future, ask the young people who will make it happen.",
+      "translation": "如果想了解未来，就去问那些将创造未来的年轻人。",
+      "url": "https://computerhistory.org/profile/ivan-sutherland/",
+      "context": "CHM 人物页面引文，节选"
+    }
+  },
+  "william-kahan": {
+    "source": "https://www2.eecs.berkeley.edu/Faculty/Homepages/kahan.html",
+    "home": "https://people.eecs.berkeley.edu/~wkahan/",
+    "bio": [
+      "Kahan 在多伦多接受数学训练，1968 年加入伯克利。他把数值分析与实际机器算术紧密结合，并在 IEEE 754 浮点标准的形成中发挥关键作用。",
+      "他的研究强调舍入、异常值和可移植性会直接影响软件的可靠性。阅读其技术说明与访谈，有助于理解浮点数为何不能被当作精确实数，以及标准背后的工程妥协。"
+    ],
+    "materials": [
+      "kahan-summation",
+      "kahan-ieee",
+      "kahan-interview"
+    ],
+    "reviewedAt": "2026-09-24",
+    "quote": {
+      "text": "What distinguished our proposal from all the others was the reasoning behind every decision.",
+      "translation": "让我们的方案与其他方案不同的，是每项决策背后的推理。",
+      "url": "https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html",
+      "context": "An Interview with the Old Man of Floating-Point · 1998，节选"
+    }
+  },
+  "fernando-corbato": {
+    "source": "https://news.mit.edu/2019/mit-professor-emeritus-fernando-corby-corbato-computing-pioneer-dies-0715",
+    "bio": [
+      "Corbató 在 MIT 领导 CTSS 和 Multics 等分时系统研究，使多人能够交互地共享计算资源。他把操作系统发展为需要协作设计、持续维护和可靠运行的大型工程。",
+      "他的图灵奖演讲正视复杂系统终将遇到失败的现实，讨论怎样通过设计和组织工作应对它。理解分时系统的历史，也能帮助理解今天服务系统中的隔离、共享与运维问题。"
+    ],
+    "materials": [
+      "corbato-ctss",
+      "corbato-multics",
+      "corbato-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "robin-milner": {
+    "source": "https://www.cl.cam.ac.uk/archive/rm135/",
+    "home": "https://www.cl.cam.ac.uk/archive/rm135/",
+    "bio": [
+      "Milner 长期在爱丁堡工作，后来来到剑桥。他的研究涉及 LCF 证明工具、ML 类型系统，以及用于描述并发通信的 CCS 等形式模型。",
+      "这些方向都试图让复杂计算具备精确而可组合的表达方式。他的《Elements of Interaction》把交互放在计算研究的中心，适合与传统“输入到输出”的程序观对照。"
+    ],
+    "materials": [
+      "milner-polymorphism",
+      "milner-ccs",
+      "milner-lecture"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "研究与历史档案"
+  },
+  "butler-lampson": {
+    "source": "https://www.microsoft.com/en-us/research/people/blampson/",
+    "home": "https://www.microsoft.com/en-us/research/people/blampson/",
+    "bio": [
+      "Lampson 参与了伯克利分时系统、Xerox PARC 个人计算系统及后来的工业研究，工作覆盖操作系统、网络、语言与安全。他尤其擅长从实际系统中提炼设计原则。",
+      "《Hints for Computer System Design》讨论接口、性能与可靠性之间的权衡。这些建议不是可以机械套用的定律，而是帮助设计者明确目标、识别代价并检查假设的经验。"
+    ],
+    "materials": [
+      "lampson-mesa",
+      "lampson-hints",
+      "lampson-security"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "juris-hartmanis": {
+    "source": "https://news.cornell.edu/stories/2022/08/juris-hartmanis-first-cs-department-chair-dies-94",
+    "bio": [
+      "Hartmanis 在通用电气研究期间与 Richard Stearns 共同研究计算资源与问题难度的关系，后来成为康奈尔计算机科学系的首任系主任。",
+      "他们以时间等资源刻画复杂性类别，使“能否计算”之外的“需要多少资源”成为基础问题。他也持续思考理论、实验与学科建设之间的联系。"
+    ],
+    "materials": [
+      "hartmanis-stearns-complexity",
+      "hartmanis-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "richard-stearns": {
+    "source": "https://www.albany.edu/news-center/news/2026-turing-award-winner-richard-stearns-remembered-guiding-light-ualbany",
+    "bio": [
+      "Stearns 在通用电气与 Hartmanis 共同开展复杂性研究，1978 年来到纽约州立大学奥尔巴尼分校，后来担任计算机科学系主任。学校于 2026 年发布纪念文章，确认他在当年 8 月去世。",
+      "他的工作帮助建立了按资源消耗研究计算的框架。图灵奖演讲进一步反思时间这一复杂性尺度，适合在学习基本复杂性类别之后阅读。"
+    ],
+    "materials": [
+      "hartmanis-stearns-complexity",
+      "stearns-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "edward-feigenbaum": {
+    "source": "https://cs.stanford.edu/people/eaf/cv.html",
+    "home": "https://stanford.edu/~eaf/",
+    "bio": [
+      "Feigenbaum 在卡内基理工完成博士研究，随后在斯坦福推进知识工程与专家系统。他参与的研究把领域专家的知识组织成能够推理的程序。",
+      "DENDRAL 等工作表明，解决具体问题往往依赖丰富的领域知识，而不仅是通用搜索。他的材料适合用来回顾知识获取、表示和系统构建之间的关系，并与数据驱动的学习方法比较。"
+    ],
+    "materials": [
+      "feigenbaum-lecture",
+      "feigenbaum-art",
+      "feigenbaum-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "raj-reddy": {
+    "source": "https://www.ri.cmu.edu/ri-faculty/raj-reddy/",
+    "home": "https://www.ri.cmu.edu/ri-faculty/raj-reddy/",
+    "bio": [
+      "Reddy 在斯坦福完成博士研究，1969 年加入卡内基梅隆，并成为机器人研究所的创始主任。他的团队研究连续语音识别，把 AI 从受限实验推向可工作的复杂系统。",
+      "他也长期关注技术的社会用途，包括数字图书馆、语言交流与教育。阅读其演讲和口述历史，可以看到研究目标如何从单项能力扩展到更多人能够使用的计算服务。"
+    ],
+    "materials": [
+      "reddy-speech",
+      "reddy-lecture",
+      "reddy-oral"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "manuel-blum": {
+    "source": "https://www.cs.cmu.edu/~mblum/",
+    "home": "https://www.cs.cmu.edu/~mblum/",
+    "bio": [
+      "Blum 研究计算复杂性、密码学与程序检查，并在伯克利和卡内基梅隆培养了多代理论研究者。他提出机器无关的复杂性公理，研究如何以抽象方式刻画计算资源。",
+      "他后来把随机性用于伪随机生成与程序结果的检查。其研究的一条线索是：即便难以完全理解程序内部，仍可通过精心设计的数学结构获得可验证的保证。"
+    ],
+    "materials": [
+      "blum-complexity",
+      "blum-micali",
+      "blum-checking"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "amir-pnueli": {
+    "source": "https://www.wisdom.weizmann.ac.il/profile/scientists/pnueli-profile.html",
+    "home": "https://www.wisdom.weizmann.ac.il/profile/scientists/pnueli-profile.html",
+    "bio": [
+      "Pnueli 最初研究应用数学，后来转向计算机科学，在特拉维夫大学、魏茨曼研究所与纽约大学工作。他把时序逻辑引入程序验证，用来描述系统随时间展开的行为。",
+      "“始终成立”与“最终发生”等性质，让持续运行的并发和反应式系统获得了清楚的规格语言。他也关注把证明、自动验证与实际设计工具联系起来。"
+    ],
+    "materials": [
+      "pnueli-temporal",
+      "pnueli-book",
+      "pnueli-logic"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "douglas-engelbart": {
+    "source": "https://www.dougengelbart.org/content/view/159/92/",
+    "home": "https://www.dougengelbart.org/",
+    "bio": [
+      "Engelbart 在伯克利取得博士学位后，于 1957 年进入斯坦福研究所。他希望计算机帮助人类处理复杂问题，研究重点不仅是单个工具，也包括知识组织与协作方式。",
+      "1968 年，他与团队展示了 NLS 的超文本、交互编辑和远程协作等能力。鼠标只是其中一部分；把演示与 1962 年研究报告一起读，更能理解其增强人类智力的整体设想。"
+    ],
+    "materials": [
+      "engelbart-augment",
+      "engelbart-demo",
+      "engelbart-workshop"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "jim-gray": {
+    "source": "https://www.microsoft.com/en-us/research/people/gray/",
+    "home": "https://jimgray.azurewebsites.net/",
+    "bio": [
+      "Gray 推动数据库事务处理与可靠系统的研究，将故障恢复、一致性和实际系统实现联系起来。1995 年他加入微软，后来把数据管理方法用于天文学等数据密集型科学。",
+      "他的材料横跨数据库机制与科学研究基础设施。2007 年他在海上失踪，留下的论文和口述历史仍能帮助读者理解系统研究怎样围绕真实需求发展。"
+    ],
+    "materials": [
+      "gray-notes",
+      "gray-transactions",
+      "gray-lecture",
+      "gray-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "frederick-brooks": {
+    "source": "https://computerhistory.org/profile/frederick-p-brooks-jr/",
+    "bio": [
+      "Brooks 在 IBM 参与 System/360 与 OS/360 的开发管理，后来创建北卡罗来纳大学教堂山分校的计算机科学系。他把大型软件项目的亲身经验写入《人月神话》。",
+      "他区分软件问题中的本质困难与实现中的偶然困难，并强调概念完整性和协作成本。阅读这些文字，适合反思为什么更多人力、更好的工具并不自动带来同比例的进度提升。"
+    ],
+    "materials": [
+      "brooks-month",
+      "brooks-silver",
+      "brooks-toolsmith"
+    ],
+    "reviewedAt": "2026-09-24",
+    "quote": {
+      "text": "Adding manpower to a late software project makes it later.",
+      "translation": "向一个已经延期的软件项目增加人手，会让它更晚完成。",
+      "url": "https://computerhistory.org/profile/frederick-p-brooks-jr/",
+      "context": "《The Mythical Man-Month》 · CHM 人物页面引文"
+    }
+  },
+  "andrew-yao": {
+    "source": "https://www.tsinghua.edu.cn/en/info/1245/3956.htm",
+    "home": "https://iiis.tsinghua.edu.cn/en/People/Faculty/yaoqizhi.htm",
+    "bio": [
+      "姚期智的研究跨越计算复杂性、密码学与通信复杂性，曾在多所美国大学任教，2004 年加入清华大学。他也持续推动理论计算机科学的教学与人才培养。",
+      "他的工作研究信息在不同参与者之间如何传递、计算与隐藏。安全计算与伪随机性的理论，使“完成任务需要知道多少信息”成为能够精确定义和证明的问题。"
+    ],
+    "materials": [
+      "yao-communication",
+      "yao-secure",
+      "yao-trapdoor"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "ole-johan-dahl": {
+    "source": "https://www.mn.uio.no/ifi/english/about/ole-johan-dahl/bibliography/the-birth-of-object-orientation-the-simula-languages.pdf",
+    "home": "https://www.mn.uio.no/ifi/english/about/ole-johan-dahl/",
+    "bio": [
+      "Dahl 在挪威计算中心与 Kristen Nygaard 合作发展 Simula。他把语言设计与编译实现经验带入离散事件模拟，帮助形成类、对象与继承等重要概念。",
+      "他后来研究程序的精确构造与推理。由本人撰写的 Simula 回顾，特别适合了解语言创新如何来自具体应用，以及对象思想在迁移到一般编程时发生了什么变化。"
+    ],
+    "materials": [
+      "simula",
+      "simula-history",
+      "dahl-birth"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "研究与历史档案"
+  },
+  "kristen-nygaard": {
+    "source": "https://www.mn.uio.no/ifi/english/about/ole-johan-dahl/bibliography/the-birth-of-object-orientation-the-simula-languages.pdf",
+    "bio": [
+      "Nygaard 的背景包含蒙特卡洛计算与运筹学。他在挪威计算中心发起 Simula 项目，与 Ole-Johan Dahl 合作，把描述现实系统中的活动和相互作用转化为语言设计问题。",
+      "Simula 的影响超出了最初的模拟用途，成为面向对象语言的重要源头。两人的分工与合作也提醒我们：新的编程抽象往往来自领域需求和实现经验的共同推动。"
+    ],
+    "materials": [
+      "simula",
+      "simula-history"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "leonard-adleman": {
+    "source": "https://viterbi.usc.edu/directory/faculty/Adleman/Leonard",
+    "bio": [
+      "Adleman 在伯克利学习数学与计算机科学，后来在 MIT 与 Rivest、Shamir 合作提出 RSA，1980 年转到南加州大学。他也研究数论算法与计算复杂性。",
+      "1994 年，他用分子实验演示 DNA 计算能够解决一个小规模组合问题。这项工作拓宽了计算载体的想象，但并不意味着能绕开困难问题的一般资源限制。"
+    ],
+    "materials": [
+      "rsa",
+      "adleman-primality",
+      "adleman-dna"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "ronald-rivest": {
+    "source": "https://www.csail.mit.edu/person/ronald-l-rivest",
+    "home": "https://people.csail.mit.edu/rivest/",
+    "bio": [
+      "Rivest 在耶鲁学习数学、在斯坦福完成博士研究，1974 年加入 MIT。他与 Shamir、Adleman 提出 RSA，也广泛研究算法、机器学习和投票系统安全。",
+      "RSA 将数论问题与加密、签名联系起来；他也研究学习算法与可证明安全的签名构造。将这些论文对照阅读，可以看到同一位研究者如何把算法与复杂性思想用于不同问题。"
+    ],
+    "materials": [
+      "rsa",
+      "rivest-learning",
+      "goldwasser-signature"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "adi-shamir": {
+    "source": "https://www.wisdom.weizmann.ac.il/profile/scientists/shamir-profile.html",
+    "home": "https://www.wisdom.weizmann.ac.il/profile/scientists/shamir-profile.html",
+    "bio": [
+      "Shamir 研究密码的构造与分析，是 RSA 的共同提出者，并长期在魏茨曼研究所工作。他的贡献还包括秘密分享、密码分析和交互证明等方向。",
+      "这些工作从不同角度研究信任：如何把秘密分散保管、如何检验计算，以及如何发现实现中的薄弱环节。阅读时应区分数学安全模型与真实设备中的信息泄漏。"
+    ],
+    "materials": [
+      "rsa",
+      "shamir-sharing",
+      "shamir-ip"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "alan-kay": {
+    "source": "https://computerhistory.org/blog/smalltalk-at-50/",
+    "bio": [
+      "Kay 在 Xerox PARC 领导学习研究团队，提出 Dynabook 愿景，并与同事发展 Smalltalk。他希望个人计算机成为可探索、可编程的动态媒介，服务于学习与创造。",
+      "Smalltalk 的语言、图形界面和交互环境是一体发展的，离不开 Dan Ingalls、Adele Goldberg 等合作者。阅读其历史回顾，能理解面向对象思想与个人计算愿景之间的联系。"
+    ],
+    "materials": [
+      "kay-media",
+      "kay-smalltalk",
+      "kay-smalltalk50"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "vinton-cerf": {
+    "source": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+    "bio": [
+      "Cerf 与 Robert Kahn 合作研究不同分组网络之间的互连协议，成为 TCP/IP 发展的关键推动者。他也参与互联网研究组织、标准协作与公共治理。",
+      "互联网的形成并非一次单独发明，而是协议、实验网络、研究社区和开放文档持续配合的结果。阅读共同撰写的历史回顾，可以把技术设计放回这一协作过程。"
+    ],
+    "materials": [
+      "tcp",
+      "internet-history",
+      "internet-assessment"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "robert-kahn": {
+    "source": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+    "bio": [
+      "Kahn 在 BBN 参与 ARPANET，进入 DARPA 后推进开放网络互连，并与 Vinton Cerf 共同发展相关协议。他关注不同网络如何在保留自身设计的前提下相互通信。",
+      "这种体系结构需要处理异构、丢包与端到端可靠性，也依赖长期的实验与机构协作。早期协议论文与回顾材料一起阅读，有助于理解互联网为什么能够不断扩展。"
+    ],
+    "materials": [
+      "tcp",
+      "internet-history",
+      "internet-assessment"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "peter-naur": {
+    "source": "https://di.ku.dk/english/news/previous-news/peter-naur-obituary/",
+    "home": "https://www.naur.com/",
+    "bio": [
+      "Naur 最初研究天文学，后来在丹麦 Regnecentralen 参与计算机与编程语言发展，并在哥本哈根大学创建计算机科学教学与研究。他在 ALGOL 60 报告的形成中发挥了重要作用。",
+      "他重视程序员在工作中形成的理解，认为程序设计不能仅被归结为产生代码和文档。其关于理论建构的论述适合反思软件维护中的知识传递，但应当作为他的研究观点来阅读。"
+    ],
+    "materials": [
+      "algol60",
+      "naur-theory",
+      "naur-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "frances-allen": {
+    "source": "https://research.ibm.com/blog/remembering-frances-allen",
+    "bio": [
+      "Allen 从数学教学进入 IBM，1957 年加入公司，随后长期研究优化编译器。她把控制流、数据流和程序变换组织成可实现的方法，也推进自动并行化。",
+      "她的工作让高级语言与高性能执行之间的距离缩小。她是首位获得图灵奖的女性，也长期投入指导与培养研究者；口述历史提供了论文之外的团队和工程背景。"
+    ],
+    "materials": [
+      "allen-control",
+      "allen-cocke-dataflow",
+      "allen-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "edmund-clarke": {
+    "source": "https://www.csd.cmu.edu/news/edmund-clarke-pioneered-methods-for-detecting-software-hardware-errors",
+    "bio": [
+      "Clarke 与博士生 Allen Emerson 在哈佛开展模型检验研究，后来在卡内基梅隆继续推动其理论、算法与应用。Joseph Sifakis 在另一条独立研究线上取得了相关突破。",
+      "模型检验把系统模型与形式化规格交给算法检查，能在一定条件下系统地寻找错误。它的结论针对所给模型和性质，不能简单等同于已经证明真实系统绝无故障。"
+    ],
+    "materials": [
+      "clarke-emerson",
+      "model-checking-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "allen-emerson": {
+    "source": "https://www.cs.utexas.edu/~emerson/",
+    "home": "https://www.cs.utexas.edu/~emerson/",
+    "bio": [
+      "Emerson 的早期兴趣来自程序正确性与逻辑，他与 Edmund Clarke 合作提出模型检验方法，后来在得克萨斯大学奥斯汀分校继续研究形式化验证。",
+      "他的工作将时序逻辑、自动机与算法联系起来，用于表达和检验系统行为。阅读相关材料，关键是同时理解规格表达能力与验证所需的计算代价。"
+    ],
+    "materials": [
+      "clarke-emerson",
+      "emerson-temporal",
+      "model-checking-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "joseph-sifakis": {
+    "source": "https://www-verimag.imag.fr/~sifakis/",
+    "home": "https://www-verimag.imag.fr/~sifakis/",
+    "bio": [
+      "Sifakis 在法国开展系统验证研究，与 Jean-Pierre Queille 的工作形成了模型检验的一条独立起源。他后来在 Verimag 等研究环境中推进嵌入式与可靠系统设计。",
+      "他的研究关心如何从组件组合得到满足要求的系统。图灵奖联合文章与系统设计论述可连起来读：前者说明自动验证的方法，后者进一步讨论建造可信系统所需的整体原则。"
+    ],
+    "materials": [
+      "queille-sifakis",
+      "model-checking-lecture",
+      "sifakis-design"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "barbara-liskov": {
+    "source": "https://cap.csail.mit.edu/barbara-liskov-innovator-programming-languages-data-abstraction",
+    "home": "https://www.csail.mit.edu/person/barbara-liskov",
+    "bio": [
+      "Liskov 在斯坦福完成 AI 方向博士研究，参与 MITRE 的系统项目后，于 1972 年加入 MIT。她领导 CLU 与 Argus 等语言研究，推动数据抽象和分布式程序的组织方法。",
+      "她与 Jeannette Wing 对行为子类型的研究说明，可替换性不只是类型名称之间的关系，也取决于程序行为是否维持原有约定。她的演讲把这些思想与大型软件的可理解性连接起来。"
+    ],
+    "materials": [
+      "liskov-abstraction",
+      "liskov-wing",
+      "liskov-lecture"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "charles-thacker": {
+    "source": "https://computerhistory.org/profile/charles-thacker/",
+    "home": "https://www.microsoft.com/en-us/research/people/cthacker/",
+    "bio": [
+      "Thacker 从伯克利的计算机项目走向 Xerox PARC，领导 Alto 的硬件设计与实现，并参与网络与激光打印等系统。他后来在 DEC 和微软继续研究工作站、多处理器与平板计算。",
+      "他的贡献尤其体现了把概念做成可工作的机器所需的判断力。结合 Alto 的技术报告与口述历史，可以观察资源限制如何影响交互、显示和系统结构的设计。"
+    ],
+    "materials": [
+      "thacker-alto",
+      "thacker-firefly",
+      "thacker-oral"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面",
+    "quote": {
+      "text": "Complexity is the enemy—Exterminate features.",
+      "translation": "复杂性是敌人——删减功能。",
+      "url": "https://computerhistory.org/profile/charles-thacker/",
+      "context": "CHM 人物页面引文"
+    }
+  },
+  "leslie-valiant": {
+    "source": "https://people.seas.harvard.edu/~valiant/bio.htm",
+    "home": "https://people.seas.harvard.edu/~valiant/",
+    "bio": [
+      "Valiant 在英国接受数学与计算机科学训练，1982 年来到哈佛。他研究计算复杂性、并行计算与学习理论，为这些领域建立了清晰的数学模型。",
+      "PAC 学习框架把学习目标、数据和成功概率放入可分析的定义；他的其他工作则刻画计数问题的困难与并行计算的成本。阅读时应留意模型假设，它们决定了结论适用的范围。"
+    ],
+    "materials": [
+      "valiant-permanent",
+      "valiant-learning",
+      "valiant-bsp",
+      "valiant-interview"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "judea-pearl": {
+    "source": "https://bayes.cs.ucla.edu/stat_bio.html",
+    "home": "https://bayes.cs.ucla.edu/",
+    "bio": [
+      "Pearl 在电子工程与存储设备研究之后，于 1970 年加入 UCLA。他推动贝叶斯网络与概率推理，随后发展用图和结构模型表达因果关系的方法。",
+      "他的工作强调观察、干预与反事实是不同的问题。因果结论需要数据之外的假设；阅读其书籍和综述时，明确哪些假设来自领域知识，比只记住公式更重要。"
+    ],
+    "materials": [
+      "pearl-probability",
+      "pearl-causality",
+      "pearl-tools"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "shafi-goldwasser": {
+    "source": "https://news.mit.edu/2013/goldwasser-and-micali-win-turing-award-0313",
+    "home": "https://www.csail.mit.edu/person/shafi-goldwasser",
+    "bio": [
+      "Goldwasser 与 Silvio Micali 在伯克利读研究生时开始合作，两人都师从 Manuel Blum。他们把概率方法用于密码学，并推动安全性定义和可证明安全的发展。",
+      "零知识证明研究怎样让验证者相信一个断言，同时不获得额外知识。它并不是“什么都不说”，而是通过严密定义限制交互泄漏的信息，为密码协议提供新的构造方式。"
+    ],
+    "materials": [
+      "goldwasser-micali-encryption",
+      "zero-knowledge",
+      "goldwasser-signature"
+    ],
+    "reviewedAt": "2026-09-24",
+    "response": {
+      "title": "获奖回应",
+      "url": "https://news.mit.edu/2013/goldwasser-and-micali-win-turing-award-0313",
+      "note": "在 MIT 的获奖报道中，她表达了获奖的自豪，并回顾研究生时期不拘常规的想象与合作。此处为本站概括，完整表述见原文。"
+    },
+    "homeLabel": "机构个人页面"
+  },
+  "silvio-micali": {
+    "source": "https://news.mit.edu/2013/goldwasser-and-micali-win-turing-award-0313",
+    "home": "https://people.csail.mit.edu/silvio/",
+    "bio": [
+      "Micali 在伯克利与 Shafi Goldwasser 合作研究密码学，随后在 MIT 推进密码协议与计算理论。他们从随机化加密等问题出发，重新定义什么叫信息受到保护。",
+      "他与合作者发展了交互证明、零知识等思想。其影响不仅是具体协议，更在于把信任与知识的问题转化为可以精确定义、归约和证明的计算问题。"
+    ],
+    "materials": [
+      "goldwasser-micali-encryption",
+      "zero-knowledge",
+      "gmw"
+    ],
+    "reviewedAt": "2026-09-24",
+    "response": {
+      "title": "获奖回应",
+      "url": "https://news.mit.edu/2013/goldwasser-and-micali-win-turing-award-0313",
+      "note": "他在获奖回应中感谢计算机科学共同体，并谈到研究风险、遭遇拒绝及导师支持。此处为本站概括，完整表述见原文。"
+    }
+  },
+  "leslie-lamport": {
+    "source": "https://www.microsoft.com/en-us/research/people/lamport/",
+    "home": "https://lamport.azurewebsites.net/",
+    "bio": [
+      "Lamport 的研究以并发与分布式系统为中心，也创造了 LaTeX 的早期版本。他研究多台独立计算机只通过消息交流时，怎样建立顺序、保持一致并容忍故障。",
+      "逻辑时钟、拜占庭问题与 Paxos 分别揭示了不同的系统约束。他也倡导在编码之前精确描述系统行为，使设计能够接受推理与验证，而不只依赖运行实验。"
+    ],
+    "materials": [
+      "lamport-time",
+      "lamport-byzantine",
+      "lamport-parliament",
+      "lamport-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "michael-stonebraker": {
+    "source": "https://ilpstex.mit.edu/en/content/faculty-profiles/michael-stonebraker",
+    "home": "https://www.csail.mit.edu/person/michael-stonebraker",
+    "bio": [
+      "Stonebraker 在伯克利领导 INGRES、POSTGRES 等数据库原型研究，后来在 MIT 继续探索数据管理。他反复把系统原型、论文和产业实践联系起来。",
+      "他的研究不仅问数据库能表达什么，也问怎样存储、优化和处理真实工作负载。对比不同时期的论文，有助于理解通用设计与针对特定任务的架构之间的取舍。"
+    ],
+    "materials": [
+      "ingres",
+      "postgres",
+      "stonebraker-nosql"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "whitfield-diffie": {
+    "source": "https://computerhistory.org/profile/whitfield-diffie/",
+    "bio": [
+      "Diffie 从符号计算与程序正确性研究走向计算机通信安全，与 Martin Hellman 合作提出公钥密码学的重要思想。他关心没有预先共享秘密的人怎样建立安全通信。",
+      "这一问题改变了传统密钥分发的方式，也与个人隐私和开放网络的发展相连。阅读早期论文与回顾，能区分密钥协商、加密和数字签名各自要解决的问题。"
+    ],
+    "materials": [
+      "diffie-hellman",
+      "diffie-decade",
+      "diffie-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "martin-hellman": {
+    "source": "https://engineering.stanford.edu/about/history/heroes/2013-heroes/martin-hellman",
+    "home": "https://www-ee.stanford.edu/~hellman/",
+    "bio": [
+      "Hellman 在斯坦福完成电子工程研究并于 1971 年加入教职。他与 Whitfield Diffie、Ralph Merkle 等人推动公钥密码学，研究密钥分发及密码系统的安全性。",
+      "他也长期参与隐私与风险问题的讨论。其密码分析论文提醒读者，安全并非只有“破解”或“不能破解”两种状态，还与时间、存储空间和攻击条件有关。"
+    ],
+    "materials": [
+      "diffie-hellman",
+      "hellman-tradeoff",
+      "hellman-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "tim-berners-lee": {
+    "source": "https://www.w3.org/People/Berners-Lee-Bio/",
+    "home": "https://www.w3.org/People/Berners-Lee/",
+    "bio": [
+      "Berners-Lee 于 1989 年在 CERN 提出 Web 构想，1990 年实现早期浏览器和服务器，并参与制定 URI、HTTP、HTML 等基础机制。1994 年，他创建 W3C，推动互操作的开放标准。",
+      "Web 将网络基础设施与超文本的信息组织方式结合起来。他后来的工作继续关注数据连接与使用者对数据的控制，适合从原始提案一路读到语义网及开放 Web 的讨论。"
+    ],
+    "materials": [
+      "web-proposal",
+      "web",
+      "semantic-web"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "john-hennessy": {
+    "source": "https://hennessy.stanford.edu/biography/expanded-biography",
+    "home": "https://hennessy.stanford.edu/",
+    "bio": [
+      "Hennessy 于 1977 年加入斯坦福，领导 MIPS 研究，将 RISC 的设计思想与实际处理器实现联系起来。他也参与技术产业化，并长期从事大学教育与管理。",
+      "他与 David Patterson 合著体系结构教材，以定量分析比较设计，而不是只按直觉评价机器。后来的联合演讲讨论专用架构与新的计算需求，适合连接经典原理和现代硬件。"
+    ],
+    "materials": [
+      "mips",
+      "architecture-book",
+      "architecture-lecture"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "david-patterson": {
+    "source": "https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html",
+    "home": "https://people.eecs.berkeley.edu/~pattrsn/",
+    "bio": [
+      "Patterson 在伯克利推动 RISC、RAID 与工作站网络等研究，通过原型系统检验设计思想。他也与 John Hennessy 共同塑造了计算机体系结构的教学方式。",
+      "他的工作经常从产业面临的具体瓶颈出发，组建团队并用测量评价方案。阅读技术论文与研究建议，可以同时看到体系结构中的定量方法和长期研究的组织方式。"
+    ],
+    "materials": [
+      "risc",
+      "architecture-book",
+      "architecture-lecture",
+      "patterson-advice"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "yoshua-bengio": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2019/march/turing-award-2018.pdf",
+    "home": "https://yoshuabengio.org/",
+    "bio": [
+      "Bengio 长期在蒙特利尔研究神经网络与表示学习。他与合作者探索分布式表示、神经概率语言模型和深层网络训练，为深度学习的发展建立了重要基础。",
+      "他的研究把模型学习到的表示与泛化能力联系起来。早期语言模型论文、教材和综述适合依次阅读，观察概念如何从具体实验发展为可复用的方法。"
+    ],
+    "materials": [
+      "bengio-language",
+      "deep-learning",
+      "deep-learning-book",
+      "deep-learning-ai"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "geoffrey-hinton": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2019/march/turing-award-2018.pdf",
+    "home": "https://www.cs.toronto.edu/~hinton/",
+    "bio": [
+      "Hinton 长期探索神经网络、分布式表示与学习算法，在多伦多等研究环境中推动连接主义研究。他与 David Rumelhart、Ronald Williams 合作的反向传播论文是这一历史中的重要节点。",
+      "他的研究强调通过学习得到内部表示，而不是为每个任务完全手写规则。阅读这些材料，既要看到方法的广泛影响，也要区分单篇论文的贡献与整个研究群体长期积累的成果。"
+    ],
+    "materials": [
+      "backprop",
+      "deep-learning",
+      "deep-learning-ai"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "yann-lecun": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2019/march/turing-award-2018.pdf",
+    "home": "https://yann.lecun.com/",
+    "bio": [
+      "LeCun 从神经网络训练研究走向贝尔实验室的字符识别系统，后来在纽约大学等机构继续推进机器学习。他与合作者发展卷积网络及其实际应用。",
+      "其工作把结构先验、梯度学习与端到端系统结合起来。文档识别论文尤其适合观察算法、数据与工程如何相互配合，再通过后来的联合综述理解深度学习的扩展。"
+    ],
+    "materials": [
+      "lecun-documents",
+      "deep-learning",
+      "deep-learning-ai"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "edwin-catmull": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2020/march/turing-award-2019.pdf",
+    "bio": [
+      "Catmull 在犹他大学研究计算机图形学，后来参与 Lucasfilm 的计算机部门并共同创建 Pixar。他把图形学研究与制作完整动画电影的长期目标联系起来。",
+      "从曲面细分到图像渲染，他的技术工作帮助解决画面表示与生成中的具体难题。口述历史则补充了论文之外的背景：研究工具如何逐步进入创作流程。"
+    ],
+    "materials": [
+      "catmull-clark",
+      "reyes",
+      "catmull-oral"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "pat-hanrahan": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2020/march/turing-award-2019.pdf",
+    "home": "https://graphics.stanford.edu/~hanrahan/",
+    "bio": [
+      "Hanrahan 是 Pixar 的早期成员，参与 RenderMan 的发展，后来在斯坦福研究图形学、可视化和计算系统。他的工作把渲染算法与可编程的图形处理方式联系起来。",
+      "从着色语言到皮肤等材料的次表面散射，再到 GPU 上的流式计算，可以看到他如何在物理模型、软件抽象与硬件能力之间建立连接。"
+    ],
+    "materials": [
+      "hanrahan-shading",
+      "hanrahan-skin",
+      "hanrahan-stream"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "alfred-aho": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2021/march/turing-award-2020.pdf",
+    "home": "https://www.cs.columbia.edu/~aho/",
+    "bio": [
+      "Aho 在贝尔实验室从事语言、算法与软件工具研究，后来在哥伦比亚大学教学。他与 Jeffrey Ullman 的合作，将语言理论、语法分析与编译实现组织成系统方法。",
+      "他也参与字符串匹配等算法研究。论文与教材一起阅读，能看到理论如何变成可实现的工具，以及这些工具如何支撑语言设计和日常软件开发。"
+    ],
+    "materials": [
+      "aho-ullman-translation",
+      "aho-corasick",
+      "dragon-book"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "jeffrey-ullman": {
+    "source": "https://awards.acm.org/binaries/content/assets/press-releases/2021/march/turing-award-2020.pdf",
+    "home": "https://infolab.stanford.edu/~ullman/",
+    "bio": [
+      "Ullman 的研究跨越编译器、自动机、算法与数据库，在贝尔实验室、普林斯顿和斯坦福等环境中工作。他与 Alfred Aho 等人撰写的教材影响了多代计算机科学学生。",
+      "他的数据库研究进一步讨论查询、逻辑表达与信息集成。贯穿这些方向的，是把形式化模型变成可以讲清楚、分析并实现的方法。"
+    ],
+    "materials": [
+      "aho-ullman-translation",
+      "dragon-book",
+      "ullman-integration"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "jack-dongarra": {
+    "source": "https://eecs.utk.edu/people/jack-dongarra/",
+    "home": "https://www.icl.utk.edu/~dongarra/",
+    "bio": [
+      "Dongarra 长期研究数值线性代数与高性能计算，参与 BLAS、LINPACK、LAPACK 等软件的发展。他把数学算法、并行硬件与可复用软件库连接起来。",
+      "这些工作让科学计算能够跨机器扩展，同时要求认真处理精度、通信和性能测量。阅读库的论文与用户指南，可以理解高性能并非只来自更快的处理器。"
+    ],
+    "materials": [
+      "dongarra-blas",
+      "dongarra-level3",
+      "dongarra-lapack"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "robert-metcalfe": {
+    "source": "https://news.mit.edu/2023/bob-metcalfe-wins-acm-turing-award-0322",
+    "bio": [
+      "Metcalfe 在研究网络的过程中进入 Xerox PARC，与 David Boggs 等人发展 Ethernet，让一组计算机能够共享局域网通信资源。他后来创办 3Com，推动网络技术进入产业。",
+      "Ethernet 的早期论文把介质共享、冲突处理与性能分析结合起来。阅读博士论文及后来的回顾，可以看到网络设计如何从具体实验走向长期演化的基础设施。"
+    ],
+    "materials": [
+      "ethernet",
+      "metcalfe-thesis",
+      "metcalfe-lecture"
+    ],
+    "reviewedAt": "2026-09-24",
+    "response": {
+      "title": "获奖回应",
+      "url": "https://news.utexas.edu/2023/03/22/bob-metcalfe-receives-computer-industrys-highest-honor-for-ethernet-creation/",
+      "note": "他在获奖声明中把荣誉与参与 Ethernet 发展、标准化及商业化的众多贡献者分享。此处为本站概括，完整声明见原文。"
+    }
+  },
+  "avi-wigderson": {
+    "source": "https://www.ias.edu/news/avi-wigderson-2023-acm-am-turing-award",
+    "home": "https://www.math.ias.edu/avi/",
+    "bio": [
+      "Wigderson 在计算复杂性、随机性与密码学中开展研究，长期任职于普林斯顿高等研究院。他关注高效计算的能力、局限，以及这些问题与数学其他领域的联系。",
+      "他与合作者研究计算困难如何支持去随机化，以及交互证明如何控制信息泄漏。《Mathematics and Computation》适合作为全景入口，再回到具体论文理解条件与证明。"
+    ],
+    "materials": [
+      "gmw",
+      "wigderson-randomness",
+      "wigderson-book",
+      "wigderson-interview"
+    ],
+    "reviewedAt": "2026-09-24"
+  },
+  "charles-bennett": {
+    "source": "https://www.prnewswire.com/news-releases/acm-am-turing-award-honors-charles-h-bennett-and-gilles-brassard-for-foundational-contributions-to-quantum-information-science-302716290.html",
+    "home": "https://research.ibm.com/people/charles-bennett",
+    "bio": [
+      "Bennett 在 IBM 研究信息与物理的关系，与 Gilles Brassard 等合作者推进量子密码、量子隐形传态和纠缠相关研究。他们共同获得 2025 年度图灵奖，获奖消息于 2026 年公布。",
+      "其工作说明量子态既限制了信息的复制与测量，也提供新的通信资源。隐形传态传递的是量子态，并且需要经典通信，不能被理解为超光速传递信息。"
+    ],
+    "materials": [
+      "bb84",
+      "teleportation",
+      "entanglement"
+    ],
+    "reviewedAt": "2026-09-24",
+    "homeLabel": "机构个人页面"
+  },
+  "gilles-brassard": {
+    "source": "https://www.prnewswire.com/news-releases/acm-am-turing-award-honors-charles-h-bennett-and-gilles-brassard-for-foundational-contributions-to-quantum-information-science-302716290.html",
+    "home": "https://www.iro.umontreal.ca/~brassard/",
+    "bio": [
+      "Brassard 长期在蒙特利尔大学研究密码学与量子信息。他与 Charles Bennett 合作提出 BB84，并参与量子隐形传态与纠缠处理等奠基性研究。",
+      "这些成果把密码协议、计算理论与量子物理连接起来。阅读原始论文时，需要区分理想协议中的安全论证与真实设备中的实现条件，这也是量子信息走向实践的重要问题。"
+    ],
+    "materials": [
+      "bb84",
+      "teleportation",
+      "entanglement"
+    ],
+    "reviewedAt": "2026-09-24"
+  }
+}
