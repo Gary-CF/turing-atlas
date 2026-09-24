@@ -1,8 +1,9 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { useRouter } from "next/navigation";
+import { documentNavigation } from "@/lib/navigation";
 import { ArrowUpRight, Minus, Plus, RotateCcw, Search, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import RelationshipList from "@/components/relationship-list";
@@ -113,7 +114,7 @@ export default function Constellation() {
             const type = r.evidence[0].kind, style = relationKinds[type];
             return <g key={`${r.from}-${r.to}`} className={`graph-edge ${selected && r.from !== selected && r.to !== selected ? "faded" : ""}`}><line x1={a.x + dx / distance * 48} y1={a.y + dy / distance * 48} x2={b.x - dx / distance * 52} y2={b.y - dy / distance * 52} style={{ stroke: style.color, strokeDasharray: style.dash }} markerEnd={type === "mentor" ? "url(#mentor-arrow)" : undefined} /><title>{`${name(r.from)} · ${name(r.to)}：${r.evidence.map(e => e.label).join("、")}`}</title></g>;
           })}
-          {nodes.map(p => <g key={p.id} data-node={p.id} role="button" tabIndex={0} aria-label={`${name(p.id)}，${p.tag}，显示关联`} aria-pressed={selected === p.id} className={`graph-node ${selected === p.id ? "selected" : ""} ${selected && !connected.has(p.id) ? "faded" : ""}`} transform={`translate(${p.x},${p.y})`} onClick={() => pick(p.id)} onDoubleClick={() => router.push(`/laureates/${p.id}`)} onKeyDown={e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(p.id); } }}>
+          {nodes.map(p => <g key={p.id} data-node={p.id} role="button" tabIndex={0} aria-label={`${name(p.id)}，${p.tag}，显示关联`} aria-pressed={selected === p.id} className={`graph-node ${selected === p.id ? "selected" : ""} ${selected && !connected.has(p.id) ? "faded" : ""}`} transform={`translate(${p.x},${p.y})`} onClick={() => pick(p.id)} onDoubleClick={() => documentNavigation ? window.location.assign(new URL(`/laureates/${p.id}`, window.location.href).href) : router.push(`/laureates/${p.id}`)} onKeyDown={e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(p.id); } }}>
             <circle r="44" className="node-ring" style={{ stroke: fields.find(f => f.id === p.field)!.color }} /><Portrait person={p} round /><text y="68" textAnchor="middle" className="node-name" textLength={name(p.id).length > 17 ? (narrow ? 274 : focus ? 245 : 188) : undefined} lengthAdjust="spacingAndGlyphs">{name(p.id)}</text><text y="94" textAnchor="middle" className="node-tag">{p.tag}</text>
           </g>)}
         </g>

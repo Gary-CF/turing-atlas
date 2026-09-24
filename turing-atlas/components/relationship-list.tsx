@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { awardByPerson, personById } from "@/lib/content";
 import { Relation, relationKinds } from "@/lib/relationships";
 

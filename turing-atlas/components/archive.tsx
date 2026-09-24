@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { ArrowUpRight, Search } from "lucide-react";
 import { awards, fields, personById, settings } from "@/lib/content";
 import { Portrait, Quote } from "@/components/laureate";

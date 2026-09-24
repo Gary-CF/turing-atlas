@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { Orbit } from "lucide-react";
 import { settings } from "@/lib/content";
 

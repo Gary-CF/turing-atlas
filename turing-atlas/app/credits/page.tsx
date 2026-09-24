@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { portraits } from "@/lib/portraits";
 
 export const metadata = { title: "肖像署名" };

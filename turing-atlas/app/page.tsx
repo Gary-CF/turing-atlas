@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/site-link";
 import { ArrowUpRight } from "lucide-react";
 import { people, settings } from "@/lib/content";
 import Archive from "@/components/archive";
