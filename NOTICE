@@ -1,0 +1,10 @@
+The MIT license covers original project source code. Third-party photographs,
+quotations, publications, and vendored components retain their original rights
+and licenses.
+
+Portrait authors, sources, and individual licenses are recorded in
+turing-atlas/lib/portraits.json and displayed at /credits. Portraits are shown
+in grayscale and cropped for display; their original licenses continue to apply.
+The GFDL 1.2 text is included at turing-atlas/public/licenses/GFDL-1.2.txt.
+
+See the license files beside vendored components for their terms.

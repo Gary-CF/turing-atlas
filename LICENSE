@@ -20,8 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Scope: This license covers original project source code. Third-party
-photographs, quotations, publications, and vendored components retain their
-original rights and licenses. Photo source and credit records are in
-turing-atlas/lib/portraits.json; their inclusion does not grant redistribution
-rights. See the license files beside vendored components for their terms.
