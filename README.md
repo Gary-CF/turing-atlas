@@ -38,9 +38,26 @@
 ## 本地开发（可选）
 
 <details>
-<summary>仅在修改代码时需要 Node.js 和 npm，浏览网站无需安装。</summary>
+<summary>供贡献者修改、预览代码使用；普通读者直接访问在线网站即可。</summary>
 
-使用 Node.js 24（附带 npm）：
+先安装 [Git](https://git-scm.com/downloads) 和 [Node.js 24 LTS](https://nodejs.org/en/download)（附带 npm，无需单独安装 npm）。在**运行项目的同一个终端**确认版本：
+
+```bash
+node -v
+npm -v
+```
+
+`node -v` 应显示 `v24.x.x`。Node.js 18 不受支持；即使 `npm ci` 安装成功，启动时也可能报 `node:util` 缺少 `styleText`。
+
+Linux / macOS / WSL 如果已安装 [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)，先切换版本：
+
+```bash
+nvm install 24
+nvm use 24
+node -v
+```
+
+然后下载并启动项目（已有代码可跳过 `git clone`，进入内层含 `package.json` 的 `turing-atlas` 目录）：
 
 ```bash
 git clone https://github.com/Gary-CF/turing-atlas.git
@@ -49,7 +66,9 @@ npm ci
 npm run dev
 ```
 
-打开 [http://localhost:5173](http://localhost:5173)。
+看到终端输出本地地址后，打开 [http://localhost:5173](http://localhost:5173)，并保持终端运行。若端口被占用，以终端实际输出的地址为准。切换 Node.js 版本后，请重新执行 `npm ci` 再启动。
+
+下载源码和安装依赖需要联网。本地预览需要保持服务运行，外部论文、访谈和视频仍通过原始链接访问。
 
 </details>
 
