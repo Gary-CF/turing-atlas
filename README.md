@@ -104,10 +104,11 @@ npm ci
 npm run dev
 ```
 
-已经下载过代码的，请跳过 `git clone`，进入已有项目中包含 `package.json` 的内层目录。例如：
+已经下载过代码的，请先按 `Ctrl + C` 停止旧预览，跳过 `git clone`，进入已有项目中包含 `package.json` 的内层目录并更新源码。例如：
 
 ```bash
 cd ~/projects/turing-atlas/turing-atlas
+git pull --ff-only
 nvm use 24
 npm ci
 npm run dev
@@ -116,6 +117,8 @@ npm run dev
 </details>
 
 **成功标志：**终端出现 `Local: http://localhost:5173/`。保持终端开启，在这台电脑的浏览器中访问该地址（WSL 用户也可用 Windows 浏览器）。若端口被占用，以终端输出的地址为准；按 `Ctrl + C` 停止服务。
+
+**更新已有项目（所有系统）：**本地预览不会自动同步在线网站。先停止旧服务，在项目目录执行 `git pull --ff-only`，成功后再执行 `npm ci` 和 `npm run dev`。若 Git 提示本地修改冲突，先保留并处理修改，不要强制覆盖。`npm ci` 只安装依赖，不会更新项目源码；若启动时改用了其他端口，请打开终端显示的新地址。
 
 下载源码和安装依赖需要联网。若看到 `styleText` 或 `EBADENGINE`，先在同一终端执行 `node -v`；Node.js 18 不受支持，切换到 24 后重新执行 `npm ci`。若使用远程服务器，则需通过端口转发访问，浏览器中的 `localhost` 默认指向你自己的电脑。
 
